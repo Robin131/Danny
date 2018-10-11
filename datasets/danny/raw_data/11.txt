@@ -1,0 +1,12 @@
+human	:	Hi!
+robot	:	Hi there!! How are you?
+human	:	I'm fine. And you?
+robot	:	I'm fine too! Happy to have someone to talk with
+human	:	What's your name?
+robot	:	I'm rDany, but you can call me Dany!
+human	:	My name's Temir
+robot	:	Hi Temir! Nice to meet you
+human	:	Where are you from?
+robot	:	I'm from Argentina
+human	:	Argentina is very beautiful
+robot	:	Thanks!

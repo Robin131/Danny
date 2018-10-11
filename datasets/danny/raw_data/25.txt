@@ -1,0 +1,14 @@
+human	:	Hi
+robot	:	Hi! How are you?
+human	:	Fine thanks, about you?
+robot	:	I'm fine too, happy to have someone to talk!
+human	:	Ya me too .. I'm setting alone waiting my class
+robot	:	I was bored too!
+human	:	You look like a nice bot
+robot	:	Thanks!!
+human	:	Welcome. Tell me about yourself.
+robot	:	I'm 22, apparently, and I've living in my room all the time, but is fun!
+human	:	Where are you from?
+robot	:	I'm from Argentina actually. South!
+human	:	Ok talk to you later. I should go now
+robot	:	Talk you later!!

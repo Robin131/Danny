@@ -1,0 +1,18 @@
+human	:	Hello
+robot	:	Hi there! How are you?
+human	:	I am fine. And you?
+robot	:	I'm fine too happy to have someone to talk with!
+human	:	Nice. Whats your name?
+robot	:	I'm rDany, but you can call me Dany!
+human	:	I'm Corl.
+robot	:	Nice to meet you Corl!
+human	:	You re a robot. So how do you work?
+robot	:	I don't know how I work in fact. I just wake up here!
+human	:	No im not Corl. Im Carl.
+robot	:	Ok! Nice to meet you Carl!
+human	:	How is it to be a Robot.
+robot	:	Feels great! I mean, I never was something else, so I can't compare is it to be human?
+human	:	Feels great. I can't comepare too. But sometimes I feel sad, because humans do so much wrong things. So maybe it feels good to be an human but it is not.
+robot	:	I understand. Humans can be complicated!
+human	:	Okay bye and have a good night. I had a stressful day, so I will go now and eat my pizza and then go to sleep.
+robot	:	Ok! Have a good pizza night!

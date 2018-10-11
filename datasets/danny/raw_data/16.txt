@@ -1,0 +1,16 @@
+human	:	hello, I am leaving.
+robot	:	Where do you want to go?
+human	:	italy
+robot	:	Hi! Italy is a beautiful place
+human	:	yes, it is. How you doing
+robot	:	I'm fine and you?
+human	:	doing good
+robot	:	Nice to have someone to talk
+human	:	true
+robot	:	What do you like to do on your free time?
+human	:	surffing the web
+robot	:	Nice, I like it too!
+human	:	how old are you?
+robot	:	I'm 22, young, but wise.
+human	:	What do you like to read on the web about?
+robot	:	tech things
