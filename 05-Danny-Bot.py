@@ -27,7 +27,7 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                ckpt_path='./ckpt/danny/',
                                emb_dim=emb_dim,
                                num_layers=3,
-                               epochs=1000
+                               epochs=3001
                                )
 
 
