@@ -1,6 +1,7 @@
 # preprocessed data
-from datasets.cornell_corpus import data
+from datasets.danny import data
 import data_utils
+import numpy as np
 
 import importlib
 importlib.reload(data)
@@ -28,26 +29,18 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                num_layers=3
                                )
 
-test_batch_gen = data_utils.rand_batch_gen(testX, testY, 15)
-
 sess = model.restore_last_session()
 
-input_m = test_batch_gen.__next__()
+text = ['hi', 'how', 'are', 'you']
 
-input_ = input_m[0]
+question = np.array(data_utils.encode(sequence=text, lookup=metadata['w2idx']))
+
+input = question.T
+output  = model.predict(sess, input)
+
+answer = data_utils.decode(sequence=output, lookup=metadata['idx2w'], separator=' ')
+print(answer)
 
 
-output = model.predict(sess, input_)
 
-
-replies = []
-for ii, oi in zip(input_.T, output):
-    # print(ii, oi)
-    q = data_utils.decode(sequence=ii, lookup=metadata['idx2w'], separator=' ')
-    decoded = data_utils.decode(sequence=oi, lookup=metadata['idx2w'], separator=' ').split(' ')
-    # print('q : [{0}]; a : [{1}]'.format(q, ' '.join(decoded)))
-    if decoded.count('unk') == 0:
-        if decoded not in replies:
-            print('q : [{0}]; a : [{1}]'.format(q, ' '.join(decoded)))
-            replies.append(decoded)
 

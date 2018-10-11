@@ -6,7 +6,7 @@ from random import sample
     return tuple( (trainX, trainY), (testX,testY), (validX,validY) )
 
 '''
-def split_dataset(x, y, ratio = [0.8, 0.2, 0] ):
+def split_dataset(x, y, ratio = [0.7, 0.15, 0.15] ):
     # number of examples
     data_len = len(x)
     lens = [ int(data_len*item) for item in ratio ]
@@ -61,9 +61,17 @@ def rand_batch_gen(x, y, batch_size):
 
 
 '''
- a generic decode function 
+ a generic decode function (idx -> word) 
     inputs : sequence, lookup
 
 '''
 def decode(sequence, lookup, separator=''): # 0 used for padding, is ignored
     return separator.join([ lookup[element] for element in sequence if element ])
+
+
+'''
+ a generci encode function (word -> idx)
+ 
+'''
+def encode(sequence, lookup):
+    return [lookup[element] for element in sequence if element]
