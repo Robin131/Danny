@@ -248,3 +248,35 @@ def load_data(PATH=''):
     idx_q = np.load(PATH + 'idx_q.npy')
     idx_a = np.load(PATH + 'idx_a.npy')
     return metadata, idx_q, idx_a
+
+'''
+    Cut a sentence into several valid words for the model
+    1. filter all words not in dict
+    2. check whether there is unk word
+    3. cut the sentence into several words
+'''
+def split_sentence(sentence, metadata):
+    question = [sentence]
+    w2idx = metadata['w2idx']
+
+    # fake an answer to use the previous functions
+    answer = ['hi there']
+
+    # change to lower case
+    question = [line.lower() for line in question]
+
+    # filter out unnecessary characters
+    question = [filter_line(line, EN_WHITELIST) for line in question]
+
+
+    # TODO if question too long, only check first 25 words
+
+    # convert questions and answers to list of words instead of sentences
+    question = [[w.strip() for w in wordlist.split(' ') if w] for wordlist in question]
+    answer = [[w.strip() for w in wordlist.split(' ') if w] for wordlist in answer]
+
+    # padding sentences to fix length and replace word with index
+    idx_q, idx_a = zero_pad(question, answer, w2idx)
+
+    return idx_q
+

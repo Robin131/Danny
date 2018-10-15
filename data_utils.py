@@ -75,3 +75,5 @@ def decode(sequence, lookup, separator=''): # 0 used for padding, is ignored
 '''
 def encode(sequence, lookup):
     return [lookup[element] for element in sequence if element]
+
+
