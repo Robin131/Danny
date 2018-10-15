@@ -10,7 +10,7 @@ metadata, idx_q, idx_a = data.load_data(PATH='datasets/danny/')
 # parameters
 xseq_len = trainX.shape[-1]
 yseq_len = trainY.shape[-1]
-batch_size = 16
+batch_size = 32
 xvocab_size = len(metadata['idx2w'])
 yvocab_size = xvocab_size
 emb_dim = 1024
@@ -24,10 +24,12 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                yseq_len=yseq_len,
                                xvocab_size=xvocab_size,
                                yvocab_size=yvocab_size,
-                               ckpt_path='./ckpt/danny/',
+                               ckpt_path='ckpt/danny/',
+                               loss_path='ckpt/danny/preset/',
+                               metadata=metadata,
                                emb_dim=emb_dim,
                                num_layers=3,
-                               epochs=3001
+                               epochs=10001
                                )
 
 

@@ -4,7 +4,8 @@ import sys
 from datasets.danny import data
 import data_utils
 
-PRESET_DATA = ['Hi', 'Hi there', 'What\'up', 'What is your name', 'how old are you', 'Where are you', 'What are you doing']
+PRESET_DATA = ['Hi', 'Hi there', 'What\'s up', 'What is your name', 'how old are you', 'Where are you', 'What are you doing', 'where do you live',
+               'are you a bot or human', 'whats your name', 'hello', 'how are you', 'where are you from']
 
 
 class Seq2Seq(object):
@@ -151,7 +152,7 @@ class Seq2Seq(object):
             try:
                 self.train_batch(sess, train_set)
                 print(i)
-                if i and i% (self.epochs//5) == 0: # TODO : make this tunable by the user
+                if i and i% (self.epochs//10) == 0: # TODO : make this tunable by the user
 
                     # save model to disk
                     saver.save(sess, self.ckpt_path + self.model_name + '.ckpt', global_step=i)
@@ -172,7 +173,9 @@ class Seq2Seq(object):
                             output_ = self.predict(sess, input_)
                             answer = data_utils.decode(sequence=output_[0], lookup=self.meta_data['idx2w'], separator=' ')
                             f.write(sentence)
+                            f.write('\n')
                             f.write(answer)
+                            f.write('\n')
 
             except KeyboardInterrupt: # this will most definitely happen, so handle it
                 print('Interrupted by user at iteration {}'.format(i))
