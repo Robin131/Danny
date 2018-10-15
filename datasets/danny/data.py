@@ -37,6 +37,8 @@ def get_QA():
     questions = []
     answers = []
 
+    # flag = True
+
     for f_name in files:
         with open(path + f_name) as f:
             print(f_name)
@@ -46,8 +48,14 @@ def get_QA():
                 assert len(sentence) == 2
                 if sentence[0] == 'human':
                     questions.append(sentence[1])
+                    # print(sentence[1] + f_name)
+                    # assert flag
+                    # flag = False
                 elif sentence[0] == 'robot':
                     answers.append(sentence[1])
+                    # print(sentence[1]+ f_name)
+                    # assert not flag
+                    # flag = True
                 else:
                     print('Error: find sentences spoke by ' + sentence[0])
         assert len(questions) == len(answers)
@@ -233,12 +241,13 @@ def process_data():
     }
 
     with open('metadata.pkl', 'wb') as f:
-        pickle.dump(metadata, f)
+        pickle.dump(mtadata, f)
 
     print(len(qtokenized))
 
 if __name__ == '__main__':
     process_data()
+
 
 def load_data(PATH=''):
     # read data control dictionaries
