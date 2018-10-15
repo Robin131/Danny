@@ -1,13 +1,17 @@
 import tensorflow as tf
 import numpy as np
 import sys
+from datasets.danny import data
+import data_utils
+
+PRESET_DATA = ['Hi', 'Hi there', 'What\'up', 'What is your name', 'how old are you', 'Where are you', 'What are you doing']
 
 
 class Seq2Seq(object):
 
     def __init__(self, xseq_len, yseq_len, 
             xvocab_size, yvocab_size,
-            emb_dim, num_layers, ckpt_path,
+            emb_dim, num_layers, ckpt_path, loss_path, metadata,
             lr=0.0001, 
             epochs=100000, model_name='seq2seq_model'):
 
@@ -15,6 +19,8 @@ class Seq2Seq(object):
         self.xseq_len = xseq_len
         self.yseq_len = yseq_len
         self.ckpt_path = ckpt_path
+        self.loss_path = loss_path
+        self.meta_data = metadata
         self.epochs = epochs
         self.model_name = model_name
 
@@ -146,6 +152,7 @@ class Seq2Seq(object):
                 self.train_batch(sess, train_set)
                 print(i)
                 if i and i% (self.epochs//5) == 0: # TODO : make this tunable by the user
+
                     # save model to disk
                     saver.save(sess, self.ckpt_path + self.model_name + '.ckpt', global_step=i)
                     # evaluate to get validation loss
@@ -156,6 +163,17 @@ class Seq2Seq(object):
                     # print('val res:')
                     # print(replies)
                     sys.stdout.flush()
+
+                    # try preset data and save
+                    with open(self.loss_path + 'preset' + str(i) + '.txt', 'w') as f:
+                        for sentence in PRESET_DATA:
+                            question = data.split_sentence(sentence, self.meta_data)
+                            input_ = question.T
+                            output_ = self.predict(sess, input_)
+                            answer = data_utils.decode(sequence=output_[0], lookup=self.meta_data['idx2w'], separator=' ')
+                            f.write(sentence)
+                            f.write(answer)
+
             except KeyboardInterrupt: # this will most definitely happen, so handle it
                 print('Interrupted by user at iteration {}'.format(i))
                 self.session = sess

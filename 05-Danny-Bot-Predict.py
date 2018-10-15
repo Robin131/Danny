@@ -24,6 +24,8 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                xvocab_size=xvocab_size,
                                yvocab_size=yvocab_size,
                                ckpt_path='ckpt/danny/',
+                               loss_path='ckpt/danny/preset',
+                               metadata=metadata,
                                emb_dim=emb_dim,
                                num_layers=3
                                )
