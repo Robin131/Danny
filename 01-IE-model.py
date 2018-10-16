@@ -10,7 +10,7 @@ metadata, idx_q, idx_a = data.load_data(PATH='datasets/IE/')
 # parameters
 xseq_len = trainX.shape[-1]
 yseq_len = trainY.shape[-1]
-batch_size = 32
+batch_size = 64
 xvocab_size = len(metadata['idx2w'])
 yvocab_size = xvocab_size
 emb_dim = 1024
@@ -29,7 +29,7 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                metadata=metadata,
                                emb_dim=emb_dim,
                                num_layers=3,
-                               epochs=100
+                               epochs=2001
                                )
 
 
