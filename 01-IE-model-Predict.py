@@ -7,7 +7,7 @@ import importlib
 importlib.reload(data)
 
 # load data from pickle and npy files
-metadata, idx_q, idx_a = data.load_data(PATH='datasets/danny/')
+metadata, idx_q, idx_a = data.load_data(PATH='datasets/IE/')
 (trainX, trainY), (testX, testY), (validX, validY) = data_utils.split_dataset(idx_q, idx_a)
 
 # parameters
