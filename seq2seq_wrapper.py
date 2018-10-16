@@ -12,7 +12,7 @@ class Seq2Seq(object):
 
     def __init__(self, xseq_len, yseq_len, 
             xvocab_size, yvocab_size,
-            emb_dim, num_layers, ckpt_path, loss_path, metadata,
+            emb_dim, num_layers, ckpt_path, metadata,loss_path='',
             lr=0.0001, 
             epochs=100000, model_name='seq2seq_model'):
 
@@ -166,16 +166,17 @@ class Seq2Seq(object):
                     sys.stdout.flush()
 
                     # try preset data and save
-                    with open(self.loss_path + 'preset' + str(i) + '.txt', 'w') as f:
-                        for sentence in PRESET_DATA:
-                            question = data.split_sentence(sentence, self.meta_data)
-                            input_ = question.T
-                            output_ = self.predict(sess, input_)
-                            answer = data_utils.decode(sequence=output_[0], lookup=self.meta_data['idx2w'], separator=' ')
-                            f.write(sentence)
-                            f.write('\n')
-                            f.write(answer)
-                            f.write('\n')
+                    if not self.loss_path == '':
+                        with open(self.loss_path + 'preset' + str(i) + '.txt', 'w') as f:
+                            for sentence in PRESET_DATA:
+                                question = data.split_sentence(sentence, self.meta_data)
+                                input_ = question.T
+                                output_ = self.predict(sess, input_)
+                                answer = data_utils.decode(sequence=output_[0], lookup=self.meta_data['idx2w'], separator=' ')
+                                f.write(sentence)
+                                f.write('\n')
+                                f.write(answer)
+                                f.write('\n')
 
             except KeyboardInterrupt: # this will most definitely happen, so handle it
                 print('Interrupted by user at iteration {}'.format(i))

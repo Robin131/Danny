@@ -1,0 +1,25 @@
+China	:	China
+US	:	US
+Canada	:	Canada
+Quebec	:	Quebec
+Montreal	:	Montreal
+I live in China	:	China
+I live in US	:	US
+I live in Canada	:	Canada
+I live in Quebec	:	Quebec
+I live in Montreal	:	Montreal
+I am from China	:	China
+I am from US	:	US
+I am from Canada	:	Canada
+I am from Quebec	:	Quebec
+I am from Montreal	:	Montreal
+I'm from China	:	China
+I'm from US	:	US
+I'm from Canada	:	Canada
+I'm from Quebec	:	Quebec
+I'm from Montreal	:	Montreal
+I come from China	:	China
+I come from US	:	US
+I come from Canada	:	Canada
+I come from Quebec	:	Quebec
+I come from Montreal	:	Montreal

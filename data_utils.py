@@ -6,7 +6,7 @@ from random import sample
     return tuple( (trainX, trainY), (testX,testY), (validX,validY) )
 
 '''
-def split_dataset(x, y, ratio = [0.7, 0.15, 0.15] ):
+def split_dataset(x, y, ratio = [0.8, 0.2, 0] ):
     # number of examples
     data_len = len(x)
     lens = [ int(data_len*item) for item in ratio ]

@@ -1,0 +1,20 @@
+My name is Victor	:	Victor
+My name is John	:	John
+My name is Nan	:	Nan
+My name is Sean	:	Sean
+My name's Victor	:	Victor
+My name's John	:	John
+My name's Nan	:	Nan
+My name's Sean	:	Sean
+I am Victor	:	Victor
+I am John	:	John
+I am Nan	:	Nan
+I am Sean	:	Sean
+I'm Victor	:	Victor
+I'm John	:	John
+I'm Nan	:	Nan
+I'm Sean	:	Sean
+Victor	:	Victor
+John	:	John
+Nan	:	Nan
+Sean	:	Sean
