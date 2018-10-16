@@ -31,7 +31,7 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                )
 
 sess = model.restore_last_session()
-print('Ready to talk!')
+print('\nReady to talk!\n')
 input_txt = input()
 
 while not input_txt == '[End]':
