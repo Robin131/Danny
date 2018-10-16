@@ -31,16 +31,16 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                )
 
 sess = model.restore_last_session()
-
-input_txt = ''
+print('Ready to talk!')
+input_txt = input()
 
 while not input_txt == '[End]':
-    input_txt = input()
     question = data.split_sentence(input_txt, metadata)
     input_ = question.T
     output_ = model.predict(sess, input_)
     answer = data_utils.decode(sequence=output_[0], lookup=metadata['idx2w'], separator=' ')
-
+    print(answer)
+    input_txt = input()
 
 # text = ['hi']
 #
