@@ -1,7 +1,7 @@
 import os
 
 '''
-    This file is to
+    This file is to generate training data for IE system
 '''
 
 FUNCTIONS = ['name', 'age', 'live_place', 'hobby']
@@ -39,15 +39,15 @@ def name():
 def age():
     sentence = [
         ('I am ', ''),
-        ('I am ', 'years old'),
-        ('I am ', 'year old'),
+        ('I am ', ' years old'),
+        ('I am ', ' year old'),
         ('I\'m ', ''),
-        ('I\'m ', 'years old'),
-        ('I\'m ', 'year old'),
+        ('I\'m ', ' years old'),
+        ('I\'m ', ' year old'),
         ('', '')
     ]
 
-    age = [str(i) for i in range(1, 99)]
+    age = [str(i) for i in range(15, 30)]
 
     return sentence, age
 
@@ -86,13 +86,13 @@ def hobby():
         'surfing Internet',
         'cats',
         'reading',
-        'playing videa games'
+        'playing video games'
     ]
 
     return sentence, hobby
 
 if __name__ == '__main__':
-    path = '../datasets/IE/data'
+    path = '../datasets/IE/raw_data/'
     for i in FUNCTIONS:
         with open(path + i + '.txt', 'w') as file:
             f = eval(i)
