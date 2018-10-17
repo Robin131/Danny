@@ -8,8 +8,8 @@ def get_model():
     importlib.reload(d_data)
     importlib.reload(IE_data)
 
-    d_metadata, d_idx_q, d_idx_a = d_data.load_data(PATH='datasets/danny/')
-    i_metadata, i_idx_q, i_idx_a = IE_data.load_data(PATH='datasets/IE/')
+    d_metadata, d_idx_q, d_idx_a = d_data.load_data(PATH='../datasets/danny/')
+    i_metadata, i_idx_q, i_idx_a = IE_data.load_data(PATH='../datasets/IE/')
 
     (d_trainX, d_trainY), (d_testX, d_testY), (d_validX, d_validY) = data_utils.split_dataset(d_idx_q, d_idx_a)
     (i_trainX, i_trainY), (i_testX, i_testY), (i_validX, i_validY) = data_utils.split_dataset(i_idx_q, i_idx_a)
@@ -19,7 +19,7 @@ def get_model():
         yseq_len=d_trainY.shape[-1],
         xvocab_size=len(d_metadata['idx2w']),
         yvocab_size=len(d_metadata['idx2w']),
-        ckpt_path='ckpt/danny/',
+        ckpt_path='../ckpt/danny/',
         loss_path='',
         metadata=d_metadata,
         emb_dim=1024,
@@ -31,7 +31,7 @@ def get_model():
         yseq_len=i_trainY.shape[-1],
         xvocab_size=len(i_metadata['idx2w']),
         yvocab_size=len(i_metadata['idx2w']),
-        ckpt_path='ckpt/danny/',
+        ckpt_path='../ckpt/danny/',
         loss_path='',
         metadata=i_metadata,
         emb_dim=1024,

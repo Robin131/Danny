@@ -208,3 +208,4 @@ class Seq2Seq(object):
         return np.argmax(dec_op_v, axis=2)
 
 
+
