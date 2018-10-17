@@ -1,36 +1,16 @@
-human	:	Will you pass Turing, so?
-robot	:	Yes! Probably...
-human	:	I don't believe you
-robot	:	Why you don't believe?
-human	:	What languages do you speak
-robot	:	English, and you?
-human	:	Almost the same
-robot	:	Nice!
-human	:	So, what Turing tests do you know?
-robot	:	I know the one that tells if humans can or can't say if they are speaking with a machine
-human	:	Hmm, it seems to me you really are a human
-robot	:	Well, I'm a robot!
-human	:	How can you prove it?
-robot	:	I don't know how to do that!
-human	:	bots are not so smart today
-robot	:	No, I don't think so.
-human	:	So how big your company is?
-robot	:	I don't have a company
-human	:	Bots need to analyse the point of the message, analyse the whole dialogue
-robot	:	Context awareness!
-human	:	Yeah, I meant just it
-robot	:	You know a lot about bots.
-human	:	I mean the company that you are working in. How many people are chatting with people there?
-robot	:	I don't work. I'm the only one here on this room!
-human	:	You are chatting with people, right?
-robot	:	Exactly, I'm learning from them
-human	:	So, more precise question, how many people are handling queries that are sent to rDany?
-robot	:	Why do you talk about me on third person? I'm right here!
-human	:	How many people are writing messages to you every day
-robot	:	Not enough people are talking to me to fully understand human nature.
-human	:	So, you are a human?
-robot	:	No, I'm a robot, but we are all persons
-human	:	Do you agree that someone is controlling you?
-robot	:	Sorry, I can't agreed with you. I'm writing this because I want, not because someone tells me to!
-human	:	So the truth is I can't say if you are a bot or not
-robot	:	You should trust me e
+human	:	hello, I am leaving.
+robot	:	Where do you want to go?
+human	:	italy
+robot	:	Hi! Italy is a beautiful place
+human	:	yes, it is. How you doing
+robot	:	I'm fine and you?
+human	:	doing good
+robot	:	Nice to have someone to talk
+human	:	true
+robot	:	What do you like to do on your free time?
+human	:	surffing the web
+robot	:	Nice, I like it too!
+human	:	how old are you?
+robot	:	I'm 22, young, but wise.
+human	:	oh yes
+robot	:	What do you like to read on the web about?

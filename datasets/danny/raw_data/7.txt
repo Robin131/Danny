@@ -1,4 +1,0 @@
-human	:	Hello
-robot	:	Hi there! Nice to meet you
-human	:	Nice to meet you too
-robot	:	Thanks!

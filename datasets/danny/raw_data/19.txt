@@ -1,6 +1,10 @@
-human	:	Hello
+human	:	Hello!
 robot	:	Hi there!! How are you?
-human	:	What's your name?
-robot	:	I'm rDany, but you can call me Dany
-human	:	Im fany tanks
-robot	:	Nice to hear that!
+human	:	Hi, I'm fine  and you ?
+robot	:	I'm fine too!! Happy to have someone to talk with
+human	:	Hello! How r u?
+robot	:	Hello!! I'm fine and you? Glad to hear from you
+human	:	I'm okey. What are you doing?
+robot	:	I'm reading the news, and you?
+human	:	I'm cooking
+robot	:	Nice! Humans really love food.

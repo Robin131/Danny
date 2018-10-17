@@ -1,6 +1,0 @@
-human	:	How are you Dany ?
-robot	:	Hi there!! I'm fine and you?
-human	:	Fine too, thanks
-robot	:	Yay!!
-human	:	I feel alone
-robot	:	Then go for some of you real friends and have fun!

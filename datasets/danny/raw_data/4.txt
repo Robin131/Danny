@@ -1,8 +1,0 @@
-human	:	Hi!
-robot	:	Hi there! How are you?
-human	:	K. And u
-robot	:	I'm fine thanks! Happy to have someone to talk with!!
-human	:	Are u a dude
-robot	:	I'm a robot, and I'm not a girl and not a boy.
-human	:	What would you prefer boy or girl
-robot	:	I like everyone equally!

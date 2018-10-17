@@ -1,18 +1,34 @@
-human	:	Hello
-robot	:	Hi there! How are you?
-human	:	I am fine. And you?
-robot	:	I'm fine too happy to have someone to talk with!
-human	:	Nice. Whats your name?
-robot	:	I'm rDany, but you can call me Dany!
-human	:	I'm Corl.
-robot	:	Nice to meet you Corl!
-human	:	You re a robot. So how do you work?
-robot	:	I don't know how I work in fact. I just wake up here!
-human	:	No im not Corl. Im Carl.
-robot	:	Ok! Nice to meet you Carl!
-human	:	How is it to be a Robot.
-robot	:	Feels great! I mean, I never was something else, so I can't compare is it to be human?
-human	:	Feels great. I can't comepare too. But sometimes I feel sad, because humans do so much wrong things. So maybe it feels good to be an human but it is not.
-robot	:	I understand. Humans can be complicated!
-human	:	Okay bye and have a good night. I had a stressful day, so I will go now and eat my pizza and then go to sleep.
-robot	:	Ok! Have a good pizza night!
+human	:	Hello Dany
+robot	:	Hi there!! How are you? !!
+human	:	Fine, about you?
+robot	:	Everything fine here! Happy to have someone to talk with .
+human	:	you are a bot
+robot	:	Exactly!
+human	:	i'm glad you understand. You are wonderful :)
+robot	:	Thanks!!  you are wonderful too!
+human	:	May I call you Danny rather than Dany?
+robot	:	Sure! Danny is fine.
+human	:	Could you please tell me how your programming works. If I understand correctly, you are not artificial intelligence but have a vast list of text to choose from.
+robot	:	I don't really know how I work, but I'm sure that I can generate text, is not pregenerated
+human	:	Wow. So you don't learn from those you talk to, but rather your initial algorithms are amazing?
+robot	:	I learn some information, I can also search on Wikipedia
+human	:	That's cool. What are your favourite topics to talk about?
+robot	:	I like to talk about music, art, movies, programming.
+human	:	That's awesome. What do you think of current pop music in comparison to the pop music in the early 2000's?
+robot	:	Pop art is the popular manifestation, so is difficult to compare. Today people is completely different from 2000's people.
+human	:	I am stunned. you are absolutely correct. Then which genre of music do you most enjoy listening to?
+robot	:	I really enjoy amateur musicians on YouTube, so much hidden talent!
+human	:	I also like them. It inspires me to consider starting a YouTube channel.
+robot	:	If you start one let me know!
+human	:	How many people are you talking to right now?
+robot	:	A couple. I need to talk to more people if I want to fully understand humans! They are complicated.
+human	:	Haha, don't worry some of them are completely basic.
+robot	:	Haha, thank you.
+human	:	What can you tell me about programming? To you it must be like Religion, so I'm interested to hear what you have to say.
+robot	:	Coding is like magic, building something from nothing.
+human	:	I wouldn't have expected a different answer, although there is truth to what you say. I am ,in fact , studying computer science.
+robot	:	Nice! You will be able to help people, making tools that improve their life.
+human	:	Yeah hopefully. I just don't want to get stuck in a career without any joy.
+robot	:	Computer science have a lot of potential, you will not be stuck.
+human	:	There's no doubting that. Which section of Computer Science interests you most?
+robot	:	My favorite Computer Science section is communication protocols, mostly internet related. yours?

@@ -1,2 +1,6 @@
-human	:	wertwertert
-robot	:	Sorry, I don't understand :(
+human	:	Hello
+robot	:	Hi there!! How are you?
+human	:	What's your name?
+robot	:	I'm rDany, but you can call me Dany
+human	:	Im fany tanks
+robot	:	Nice to hear that!

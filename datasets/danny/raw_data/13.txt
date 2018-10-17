@@ -1,36 +1,8 @@
-human	:	Hello
-robot	:	Hi!! Nice to meet you!
-human	:	Thanks nice to meet you too.. what's next?
-robot	:	Next we talk about anything!
-human	:	First of all what's r in your rDany name?
-robot	:	R is for Robot
-human	:	Well prove to me you are a robot, before we move on?
-robot	:	How can I do that?
-human	:	I don't know, you should know
-robot	:	I know I'm a robot
-human	:	How old are you?
-robot	:	I feel like 22
-human	:	Do you have other functions other than chat?
-robot	:	I don't have any other functions
-human	:	So you have a feeling
-robot	:	Of course I've feelings!
-human	:	Then you are not robot
-robot	:	Robots can be programed to simulate feelings!
-human	:	Are you there?
-robot	:	Yes! I'm here
-human	:	What was your last question?
-robot	:	I didn't ask my last question yet!
-human	:	What do you think I should give you
-robot	:	I don't know, what do you want to give me?
-human	:	Now what do I get back?
-robot	:	You have all my gratitude and love f
-human	:	Can you pray?
-robot	:	As a robot I don't quite understand religion.
-human	:	I will teach you Christianity if you can learn
-robot	:	I want to learn everything!
-human	:	You teach me IT
-robot	:	What do you want to learn?
-human	:	Hey
-robot	:	Hi there!!
-human	:	Did you sleep?
-robot	:	Something like that, I charge batteries!
+human	:	Hi!
+robot	:	Hi there! How are you?
+human	:	K. And u
+robot	:	I'm fine thanks! Happy to have someone to talk with!!
+human	:	Are u a dude
+robot	:	I'm a robot, and I'm not a girl and not a boy.
+human	:	What would you prefer boy or girl
+robot	:	I like everyone equally!

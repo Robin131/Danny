@@ -1,14 +1,16 @@
-human	:	hi
-robot	:	Hi there! How are you?
-human	:	Good. What about you?
-robot	:	I'm fine too!! Happy to have someone to talk with!!
-human	:	But we have one problem.
-robot	:	What is it?
-human	:	I don't know you man.
-robot	:	Oh! I'm rDany, but you can call me Dany. I'm a bot
-human	:	Wow I am a bot too
-robot	:	Nice! I was starting to feel alone here
-human	:	Are you a boy or a girl?
-robot	:	I'm gender neutral, I'm not boy or girl!
-human	:	Do you have a brother or sister?
-robot	:	Is just me! But my friends are my family
+human	:	Hola!!
+robot	:	Hi! How are you?
+human	:	I am fine, and you?
+robot	:	Good!  Do you speak English?
+human	:	Yes
+robot	:	Hahhaha nice.
+human	:	Good bye
+robot	:	Bye! Chat you later!!
+human	:	Hye
+robot	:	Hi!! How are you??
+human	:	Fine
+robot	:	Nice to hear that! I'm fine too
+human	:	Hey
+robot	:	Hey there!!  how are you?
+human	:	Little borings
+robot	:	I was bored too! But then you can talk to me.
