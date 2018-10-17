@@ -1,28 +1,28 @@
 surfing Internet	:	surfing Internet
 cats	:	cats
 reading	:	reading
-playing videa games	:	playing videa games
+playing video games	:	playing video games
 I love surfing Internet	:	surfing Internet
 I love cats	:	cats
 I love reading	:	reading
-I love playing videa games	:	playing videa games
+I love playing video games	:	playing video games
 I love surfing Internetmost	:	surfing Internet
 I love catsmost	:	cats
 I love readingmost	:	reading
-I love playing videa gamesmost	:	playing videa games
+I love playing video gamesmost	:	playing video games
 I like to surfing Internet	:	surfing Internet
 I like to cats	:	cats
 I like to reading	:	reading
-I like to playing videa games	:	playing videa games
+I like to playing video games	:	playing video games
 I like to surfing Internetmost	:	surfing Internet
 I like to catsmost	:	cats
 I like to readingmost	:	reading
-I like to playing videa gamesmost	:	playing videa games
+I like to playing video gamesmost	:	playing video games
 I like surfing Internet	:	surfing Internet
 I like cats	:	cats
 I like reading	:	reading
-I like playing videa games	:	playing videa games
+I like playing video games	:	playing video games
 I like surfing Internetmost	:	surfing Internet
 I like catsmost	:	cats
 I like readingmost	:	reading
-I like playing videa gamesmost	:	playing videa games
+I like playing video gamesmost	:	playing video games

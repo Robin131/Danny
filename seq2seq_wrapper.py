@@ -139,51 +139,52 @@ class Seq2Seq(object):
     def train(self, train_set, valid_set, sess=None ):
         
         # we need to save the model periodically
-        saver = tf.train.Saver()
+        with self.g.as_default():
+            saver = tf.train.Saver()
 
-        # if no session is given
-        if not sess:
-            # create a session
-            sess = tf.Session()
-            # init all variables
-            sess.run(tf.global_variables_initializer())
+            # if no session is given
+            if not sess:
+                # create a session
+                sess = tf.Session()
+                # init all variables
+                sess.run(tf.global_variables_initializer())
 
-        sys.stdout.write('\n<log> Training started </log>\n')
-        # run M epochs
-        for i in range(self.epochs):
-            try:
-                self.train_batch(sess, train_set)
-                print(i)
-                if i and i% (self.epochs//10) == 0: # TODO : make this tunable by the user
+            sys.stdout.write('\n<log> Training started </log>\n')
+            # run M epochs
+            for i in range(self.epochs):
+                try:
+                    self.train_batch(sess, train_set)
+                    print(i)
+                    if i and i% (self.epochs//10) == 0: # TODO : make this tunable by the user
 
-                    # save model to disk
-                    saver.save(sess, self.ckpt_path + self.model_name + '.ckpt', global_step=i)
-                    # evaluate to get validation loss
-                    val_loss, replies = self.eval_batches(sess, valid_set, 16) # TODO : and this
-                    # print stats
-                    print('\nModel saved to disk at iteration #{}'.format(i))
-                    print('val   loss : {0:.6f}'.format(val_loss))
-                    # print('val res:')
-                    # print(replies)
-                    sys.stdout.flush()
+                        # save model to disk
+                        saver.save(sess, self.ckpt_path + self.model_name + '.ckpt', global_step=i)
+                        # evaluate to get validation loss
+                        val_loss, replies = self.eval_batches(sess, valid_set, 16) # TODO : and this
+                        # print stats
+                        print('\nModel saved to disk at iteration #{}'.format(i))
+                        print('val   loss : {0:.6f}'.format(val_loss))
+                        # print('val res:')
+                        # print(replies)
+                        sys.stdout.flush()
 
-                    # try preset data and save
-                    if not self.loss_path == '':
-                        with open(self.loss_path + 'preset' + str(i) + '.txt', 'w') as f:
-                            for sentence in PRESET_DATA:
-                                question = data.split_sentence(sentence, self.meta_data)
-                                input_ = question.T
-                                output_ = self.predict(sess, input_)
-                                answer = data_utils.decode(sequence=output_[0], lookup=self.meta_data['idx2w'], separator=' ')
-                                f.write(sentence)
-                                f.write('\n')
-                                f.write(answer)
-                                f.write('\n')
+                        # try preset data and save
+                        if not self.loss_path == '':
+                            with open(self.loss_path + 'preset' + str(i) + '.txt', 'w') as f:
+                                for sentence in PRESET_DATA:
+                                    question = data.split_sentence(sentence, self.meta_data)
+                                    input_ = question.T
+                                    output_ = self.predict(sess, input_)
+                                    answer = data_utils.decode(sequence=output_[0], lookup=self.meta_data['idx2w'], separator=' ')
+                                    f.write(sentence)
+                                    f.write('\n')
+                                    f.write(answer)
+                                    f.write('\n')
 
-            except KeyboardInterrupt: # this will most definitely happen, so handle it
-                print('Interrupted by user at iteration {}'.format(i))
-                self.session = sess
-                return sess
+                except KeyboardInterrupt: # this will most definitely happen, so handle it
+                    print('Interrupted by user at iteration {}'.format(i))
+                    self.session = sess
+                    return sess
 
     def restore_last_session(self):
         with self.g.as_default():
