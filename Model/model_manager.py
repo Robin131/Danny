@@ -31,7 +31,7 @@ def get_model():
         yseq_len=i_trainY.shape[-1],
         xvocab_size=len(i_metadata['idx2w']),
         yvocab_size=len(i_metadata['idx2w']),
-        ckpt_path='../ckpt/danny/',
+        ckpt_path='../ckpt/IE/',
         loss_path='',
         metadata=i_metadata,
         emb_dim=1024,
@@ -47,9 +47,10 @@ if __name__ == '__main__':
     dm, im, ds, i_s, dmt, imt = get_model()
 
     txt = 'I like to read'
-    d_q = d_data.split_sentence(txt, dm)
+    d_q = d_data.split_sentence(txt, dmt)
     input_ = d_q.T
     output_ = dm.predict(ds, input_)
-    answer = data_utils.decode(sequence=output_[0], lookup=dmt['idx2w'], separator=' ')
-    print(answer)
+    print(output_)
+    # answer = data_utils.decode(sequence=output_[0], lookup=dmt['idx2w'], separator=' ')
+    # print(answer)
 

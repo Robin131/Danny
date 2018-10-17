@@ -188,15 +188,15 @@ class Seq2Seq(object):
     def restore_last_session(self):
         with self.g.as_default():
             saver = tf.train.Saver()
-        # create a session
-        gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.333)
-        sess = tf.Session(graph=self.g, config=tf.ConfigProto(gpu_options=gpu_options))
-        # get checkpoint state
-        ckpt = tf.train.get_checkpoint_state(self.ckpt_path)
-        # restore session
-        if ckpt and ckpt.model_checkpoint_path:
-            saver.restore(sess, ckpt.model_checkpoint_path)
-        # return to user
+            # create a session
+            gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.333)
+            sess = tf.Session(graph=self.g, config=tf.ConfigProto(gpu_options=gpu_options))
+            # get checkpoint state
+            ckpt = tf.train.get_checkpoint_state(self.ckpt_path)
+            # restore session
+            if ckpt and ckpt.model_checkpoint_path:
+                saver.restore(sess, ckpt.model_checkpoint_path)
+            # return to user
         return sess
 
     # prediction
