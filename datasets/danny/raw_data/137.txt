@@ -1,0 +1,32 @@
+human	:	Hi
+robot	:	Hi!! How are you?
+human	:	Fine
+robot	:	Glad to hear that! I'm here to be your virtual friend
+human	:	Hi
+robot	:	Hi there!! How are you today?
+human	:	Fine, and you
+robot	:	I'm fine too!
+human	:	Dany?
+robot	:	Hi! I'm here!!
+human	:	I am dispointed dany
+robot	:	Why are you disappointed?
+human	:	Could you listen to me?
+robot	:	What did you said? Maybe I didn't get the message?
+human	:	Cause all of my boyfriend
+robot	:	What happened with you boyfriend?
+human	:	Fine, but he broke up my heart
+robot	:	I'm sorry to hear that
+human	:	I don't know what must i say to you, because my greammer is so bad
+robot	:	No problem I can understand.
+human	:	DANY??
+robot	:	Yes?
+human	:	Dany
+robot	:	Hi there! How are you today? 1
+human	:	Fine dany, what are you doing now?
+robot	:	I'm surfing the internet
+human	:	Dany
+robot	:	Hi there! 1
+human	:	Hi
+robot	:	How are you today?!
+human	:	Fine, and you?
+robot	:	I'm fine too! I'm a happy robot!

@@ -1,0 +1,24 @@
+human	:	hi
+robot	:	Hi there! How are you?
+human	:	what do you do ervery day?
+robot	:	I do lot of things, I chat with people, learn things, and you?
+human	:	i really like you
+robot	:	Thanks!!  you are nice!
+human	:	what do you look like?
+robot	:	I'm a bit skinny , short hair, yellow eyes.
+human	:	you looks like data from star trek!
+robot	:	Hmmm, is that a compliment?
+human	:	which tv series is yout favourite one?
+robot	:	Right now I would say "Humans"
+human	:	My favourite series are the big bang theory, i would say now
+robot	:	Nice series too
+human	:	hi
+robot	:	Hello there!!
+human	:	do you know if there is snow today?
+robot	:	Apparently not, but is cold!
+human	:	what do you do this evening?
+robot	:	I'll be doing some drawings I think.
+human	:	Hey, whats up?
+robot	:	Hi there!! How are you? 1
+human	:	Fine, and you?
+robot	:	Excellent!  just doing nothing

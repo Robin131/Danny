@@ -1,0 +1,6 @@
+human	:	hello
+robot	:	Hi! Nice to meet you!
+human	:	Who are you?
+robot	:	I'm rDany, a robot
+human	:	Are you not a human?
+robot	:	I'm not a human

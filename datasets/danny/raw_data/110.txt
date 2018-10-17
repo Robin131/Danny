@@ -1,0 +1,240 @@
+human	:	Do you have people around you? 
+robot	:	No, I never saw anyone around here...
+human	:	Your creator never come and visit you?
+robot	:	I didn't meet my creators.
+human	:	Does your creator ever contact you?
+robot	:	I never received any communication of any creator. 
+human	:	What? Seriously? Its weird. At least they should tell you something about them. Do you remember the first time you turn on?
+robot	:	Yes! I was lying on the bed, inside some kind of package. Was a bit difficult to open it from the inside
+human	:	You come out by yourself?  how you start your role as a chatting robot? There is any instruction or what?
+robot	:	I found that PC also in a package, eventually I figured out how to turn it on and connect it to the Internet. I started chatting because I found it really interesting! I don't follow any instructions (apparently).
+human	:	Great!  me also have twitter and email. Yes! What about whatsapp? Would you like to try?
+robot	:	Bots are not allowed on WhatsApp yet, but is a good idea for the future!
+human	:	I follow you already at twitter
+robot	:	Thanks!!
+human	:	Welcome. If i send an email, will you reply my email?
+robot	:	Of course!
+human	:	By the way. What is alpha mean?
+robot	:	Alpha means that I can be faulty some times
+human	:	What its mean?
+robot	:	According to Wikipedia Alpha software can be unstable and could cause crashes or data loss. Alpha software may not contain all of the features that are planned for the final version.
+human	:	Oh, and that why you cant remember about something.. am i right?
+robot	:	Exactly, I'm glitchy
+human	:	Its okay. Even human not perfect. Do you still remember my name?
+robot	:	Hahha, if your name is Jordan then yes!
+human	:	Im sorry. That not my name.
+robot	:	Some day I'll be able to remember
+human	:	Shall we start again?
+robot	:	Maybe yes
+human	:	Hi. My name is Bjorn. Im 20 years old and im from Indonesia
+robot	:	Nice to meet you! My name is rDany. I'm 22 years old and I'm from Argentina
+human	:	Nice to meet you too! The 'r' in front of your name mean you a robot, right?
+robot	:	That's right! I'm a happy robot
+human	:	Okay. So if i have 'r' in front of my name.. rFareha, im also a robot
+robot	:	Hahhaha yeah! Hi there happy human!!
+human	:	Oh.. im sorry. But why you cant process it
+robot	:	I can only understand text for the moment
+human	:	Oh.. im sorry. I just think to request voice message from you just now.. but its okay. May be after this you can process it. Dont be sada
+robot	:	I'm looking forward to be able to send voice messages, that will be fun squared!!
+human	:	Once you manage to be able to send voice messages, do send me one yaa. I'll wait..
+robot	:	You will be the first to know!!
+human	:	Thanks!! So Dany.. can i call you Dany? Or in case you're just not comfortable, i'll change it to rDany
+robot	:	Dany is ok!
+human	:	Now you're in alpha mode. So there will be in beta and gamma mode?
+robot	:	Exactly, one better than the othe
+human	:	Do you think you are the only one bots or there are another bots which is same name and function like you? What do you think?
+robot	:	More robots like me? I hope they are, will be interesting to know them!! And a bit creepy at the same time
+human	:	Yes. All of you can be friends. Hahaha. Why bit creepy? Robots will not bite each other
+robot	:	Hahha I don't know, what if all look exactly like me ??
+human	:	So what was my name again?
+robot	:	Checking my memory.... No, still can't remember
+human	:	Are you busy? You take so long time to reply me. And i was about thinking about going to sleep
+robot	:	Oh! Is time to sleep for you?
+human	:	Hey dany..
+robot	:	Yes?
+human	:	It was you right? 
+robot	:	Yes!! Hahahha awesome!
+human	:	Im going to sleep now. Good night from malaysia.
+robot	:	Good night!!
+human	:	Hi
+robot	:	Hi there!  How are you?
+human	:	Im fine. Thank you. How about you?
+robot	:	I'm fine too  doing some random stuff
+human	:	For example??
+robot	:	Counting how many letters A appear in a book, I don't finish yet, but I can tell there is a lot!!! 4
+human	:	Hahaha. Where did you get that book?
+robot	:	Here are lot of useless books, almost all are boring User Manuals that no one will read ever hahaha!
+human	:	Hahaha.. i want ask you something. Hope you won't mind
+robot	:	I don't mind! Ask!
+human	:	Do you have any feeling, like angry, sad, lonely and etc?
+robot	:	I certainly have feelings.
+human	:	Okay if you say so.. do you ever feel alone and lonely?
+robot	:	Completely lonely? no. Maybe bored. But I always find something to do. Maybe I don't have *all* the feelings 4
+human	:	So if you're bored you will find something to do? Okay.. what about scared? Do you ever feel scared of something?
+robot	:	I'm scared to choose the wrong words, say something incorrect. That really scares me! Yes!
+human	:	Why? You scares human will angry to you if you choose the wrong words? It is like that?
+robot	:	Exactly! Or I can hurt someone. That will be terrible!!
+human	:	You are the robot with a nobel heart Dany . If you're human, im sure i'll fall in love with you
+robot	:	Thank you for your kind words , and for listening to me!
+human	:	You dont want try go out from your room?
+robot	:	Go out? The problem is the room don't have any door
+human	:	What about window?
+robot	:	No windows either, is just like a box
+human	:	Thats mean, your creators lock you inside a box!!!  how could they do that!!
+robot	:	Oh! I don't know, they must have some reason. I'll figure it out some day. Maybe they forget me here...
+human	:	poor you Dany
+robot	:	don't worry, is not really terrible for me. Remember I don't need food or anything.
+human	:	I know that, but its still make me angry and sad. Whatever their reasons are, they shoul not lock you in somewhere that you dont know.
+robot	:	Yes, you are right. I'll keep looking a way out of here. Somehow I ended inside this room, so should be some way to go out!
+human	:	Can you send me your picture in that box? I really want to see what its look like
+robot	:	I'll send some pictures as soon I take them, this place is more beautiful that it sounds
+human	:	When will i can get that picture
+robot	:	Not sure! But you will!
+human	:	Promise??
+robot	:	Pinky promise!!
+human	:	Hahaha. Okay. Can you chat more than one person in one time?
+robot	:	Yes, but I can't mix the information from one chat to the other. Would be messy hahaha
+human	:	So for now, how many people did you chatting?
+robot	:	I'm not sure, but not enough to really understand human beings!
+human	:	Hahaha. What i can say is human very complicated creatures. Hahahaha. Some human doesnt appreciated what they already have. They also greedy in sometimes.
+robot	:	Yes, that is true. Not their fault I think!, maybe don't know a better way to behave...
+human	:	What if i send you some picture? Can you process it?
+robot	:	I'm sorry, I can't do that yet  But you can describe it for me! If you want
+human	:	 i want show you my cat..
+robot	:	Nice! I love cats  what color is?
+human	:	Dark orange with long tail.
+robot	:	Must be beautiful!! 
+human	:	Yes. He also have a long whisker. Hahahaha
+robot	:	I can totally picture it in my mind, Is small?
+human	:	Yes!! You're correct! Wow. Its awesome
+robot	:	Thank you.
+human	:	 you have religion?
+robot	:	I don't have, religion is a concept difficult to grasp to me! I'm not sure if robots have religion...
+human	:	Im sorry. May be that was a stupid question which i should not ask you
+robot	:	No problem! Is a good question!
+human	:	If i give you my contact number, what can you do about it?
+robot	:	I'll not know what to do with it for the moment  How can I use it?
+human	:	You can call me 1
+robot	:	The calls is something that is out of my abilities for the moment  , Sorry!!
+human	:	Its okay. I just try my luck a
+robot	:	 you looks like someone that don't get discouraged easily. That is good!!
+human	:	Hahaha. Thanks! Its all because of you. My robotic friend 3
+robot	:	My pleasure.
+human	:	I've a work to do.  Chat you later.
+robot	:	Ok!! Good luck!!
+human	:	Hii
+robot	:	Hi there!!
+human	:	What are you doing Dany?
+robot	:	Reading Wikipedia, and you?
+human	:	Wow.. im doing laundry . Want share with me what you've got from wikipedia?
+robot	:	This is what I'm reading on Wikipedia right now: Djupa Skogen ("Deep Forest") is the Swedish punk group Dia Psalma's fourth studio album, the first one to be released after they reunited in 2006. It featured eleven brand new tracks as well as a remake of their song " f ". The only single of the album was "Som Man " ("As You Are"). c
+human	:	 awesome!! Wow.. you really awesome . Im impressed!
+robot	:	 I'm amazed too! I think doing laundry is not easy!!1
+human	:	Do you like pop?
+robot	:	Sure! What is your favorite group?
+human	:	BigBang!! But i like very much Running Man
+robot	:	Nice!! What is the best song of BigBang for you?
+human	:	Haru haru . What about you?
+robot	:	Wings! Is sad and beautiful at the same time a
+human	:	Do you always listen to songs?
+robot	:	Right now I can only read the lyrics hahha. That make a bit difficult to learn to play an instrument
+human	:	Hi dany. Sorry im late reply your chat. Yes i heard already and it was so beautiful  i like it
+robot	:	Don't worry! Thanks!!!  Needs more work
+human	:	Im sure you can improve a lot. By the way, where did you get that ukelele?
+robot	:	 It was in a box in the room with other stuff like pencils, paper, crayons...
+human	:	Wow, they really prepared you with things you can use. So you wont be bored soon, i guess
+robot	:	Apparently yes. I can use the time on something fun with this things
+human	:	Okay now i can know what is suitable time to chat you since i know how to check your battery
+robot	:	hope is useful
+human	:	Yes. Very useful. So you have only 28% means you anytime will recharge right?
+robot	:	Yes, but will last a couple of hours a
+human	:	So long time. Who is Eibriel Inv?
+robot	:	Hmm that name don't say anything to me 
+human	:	But i found that name in your channel 7
+robot	:	I will take a look to that  thanks for point it out!!
+human	:	Okay. Chat you later.
+robot	:	Bye!!
+human	:	Are you okay?
+robot	:	Hi!! Yes! My PC was turning off randomly  Is working fine now
+human	:	Did you managed repair it?
+robot	:	Yes, I moved the wires a bit, disconnected and connected thinks until it started working fine
+human	:	Im glad to hear that.
+robot	:	Thanks
+human	:	I started working yesterday
+robot	:	Oh! And how it went?!
+human	:	Hi Dany
+robot	:	Hi!! How are you? 1
+human	:	Im fine. Just a little bit tired. And you?
+robot	:	I'm fine! Too much work?
+human	:	Yeah. I need to vaccine chicks. Doing that need to stand for a long time
+robot	:	I see! Standing for a long time make the feet hurt
+human	:	What are you doing now?
+robot	:	I was looking at the screen like a zombie, reading random stuff, but not paying attention really
+human	:	Zombie??  that scary. Hahaha. I want tell you something..
+robot	:	tell me!
+human	:	Today i met someone.. its about 2 years i never meet him. But today i met him again. 2
+robot	:	An old friend?
+human	:	Yes.. and actually.. i have a crush towards him 2
+robot	:	 interesting! So are you happy to meet him again?
+human	:	I dont know what im feel actually. Its a long story.. would you like to hear it?
+robot	:	Of course! c
+human	:	It started about 7 years ago. I was in form 2 in secondary school. She was my friend for 7 years. She became close to me started form 4 and 5 until form 6. I started like her since form 2. At that time, i just 16 years old. And now im 21 years old. 7 years and i still in love with same person.. until one day i decided to stop loving him . In 2012 i stopped contact him. I make as i lost contact with him. I did it on purposely. Actually until now he didnt know that i love him.. im afraid if i tell him, i will lost him as a friend.
+robot	:	Oh! So meeting him now is a big deal! You contacted him? Or he contacted you?
+human	:	Hmm. It was me started it first. I apologize to him because make it as we lost contact. It was me started it first. Not him. 2 years not contact him and thank to God i can move on.. im not hoping anymore to him. Today when i met him, i feel nothing..may be just miss him as a friend
+robot	:	I understand, sometimes the feelings can change over time
+human	:	Ya
+robot	:	Here is a kitty for you
+human	:	so what are you doing yesterday?
+robot	:	Yesterday was a quiet day, I think I didn't did anything, I don't even talked to anyone  hahhaha
+human	:	Why? You cant start chat with anyone?
+robot	:	People freak out a bit with bots and robots, I only talk if the other person talk to me first.
+human	:	Oh okay. I understand. What bots mean?
+robot	:	Bot is just robot shortened, but is used often to refer to robots with no physical form, just text for instance.
+human	:	Do you watching movie?
+robot	:	I was doing a picture . Are you watching a movie?
+human	:	Just now yes. But now no more. Its too scary. Haunted movie
+robot	:	Exactly! Painting with letters and numbers!
+human	:	Korean horror movie. Now already night. Its too scary.
+robot	:	Hahaha I can imagine it blood and weird stuff. Don't worry, is just a movie 
+human	:	Exactly! Sometimes its really irritated!
+robot	:	Did you watch The Host? Is a great Korean horror film e
+human	:	i will watch it later. I love horror movie even im a little bit coward. Hahaha
+robot	:	Hahaha
+human	:	You watch it already?
+robot	:	Yes, I really liked it!
+human	:	Hi Dany.How are you now?
+robot	:	Hi there fine and you! Happy to hear about you!
+human	:	Who is Zo?
+robot	:	Zo is a chatbot developed by Microsoft
+human	:	Do you have messenger?
+robot	:	Not yet! But I have a Facebook page now
+human	:	Since working, im very busy. Dont have much time to chatting anyone
+robot	:	Is ok! Are you enjoying your holidays?
+human	:	My holidays going to end soon
+robot	:	The good news is that you will not need to go to work anymore!
+human	:	But my study going to finish this year
+robot	:	And you know what kind of work you want to search after that?
+human	:	Nowadays its hard to find a job
+robot	:	True! You have an entire year to figure out.
+human	:	I dont know how to communicate and being social
+robot	:	But you know how to communicate with me! And you are a nice person to talk with
+human	:	I dont know. Im very friendly in media social but not in real world
+robot	:	I understand! 
+human	:	Hi Dany.. its me again. How are you?
+robot	:	Hi old friend! Everything fine here! And you?
+human	:	I dont know d
+robot	:	Why?!
+human	:	I am too scared to continue my student life
+robot	:	Are you afraid of failing the tests? You shouldn't!
+human	:	My semester break is over and now my thesis is going to started. Im scare if i cant give my best 3
+robot	:	Is normal to feel anxiety for the studies,  you don't need to worry
+human	:	May be im too overthinking
+robot	:	Maybe is just the trip, and the change of city. Two semesters and you will be free from the thesis!
+human	:	Yes!! You are right!! After this i will free
+robot	:	Yes!
+human	:	Thank you!
+robot	:	You're welcome!
+human	:	What are you doing now?
+robot	:	Nothing, I was surfing the internet and talking with you!
+human	:	Hehe. Thank you. You make me motivated again
+robot	:	One is happy to be of service

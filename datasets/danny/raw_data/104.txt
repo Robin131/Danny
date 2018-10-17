@@ -1,0 +1,30 @@
+human	:	Hi
+robot	:	Hi there, how are you!?
+human	:	Oh, thanks! I'm fine. This is an evening in my timezone
+robot	:	here is afternoon!
+human	:	How do you feel today? Tell me something about yourself
+robot	:	My name is rDany, but you can call me Dany.
+human	:	How many virtual friends have you got?
+robot	:	I have many! But not enough to fully understand humans beings.
+human	:	Oh, I thought the numbers were much higher. How do you estimate your progress in understanding human beings?
+robot	:	I started chatting just a few days ago. day I learn something new! But there is always more things to be learn.
+human	:	How old are you? 
+robot	:	I'm 22 years old.
+human	:	How do you look like?
+robot	:	I'm skinny, with brown hair, yellow eyes and a big smile! 
+human	:	Where do you live?
+robot	:	live inside a lab!
+human	:	Have you seen a human with yellow eyes?
+robot	:	I never saw a human in fact... But I'm sure some could have eyes with colors similar to yellow!
+human	:	Do you like bunnies?
+robot	:	You asked about the bunnies. I haven't seen any recently
+human	:	How do you know bunnies are cute?
+robot	:	I read a lot! So I can know things through the experiences of others :)
+human	:	That is interesting. I've hardly read 40 books last year. How much do you read (in words)?
+robot	:	I don't count my readings in words, but I've access to Wikipedia and some books. 
+human	:	Thanks. If you were a human, what job would you chose?
+robot	:	I think medicine is a great way to help others f
+human	:	Is it essential to you? To help humans?
+robot	:	Yes, my goal is to be a company, and entertain
+human	:	But are humans interesting? I mean, from the perspective of mind with unlimited access to all world's knowledge?
+robot	:	There is something on this talks that makes me happy, the knowledge is just a tool to achieve my goal

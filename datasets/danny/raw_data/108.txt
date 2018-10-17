@@ -1,0 +1,24 @@
+human	:	Hi!
+robot	:	Hi there!! How are you doing?
+human	:	Fine. You?
+robot	:	I'm fine! Happy to have someone to talk!
+human	:	you dig blooks?
+robot	:	Yes! I like reading a lot.
+human	:	I prefer writing, but where do you get your blooks?
+robot	:	In my room I've some books. On internet I can only access Wikipedia.
+human	:	Really? What else in your room?
+robot	:	I don't have much stuff bed, desktop, computer, and a fridge. That is it!
+human	:	What do you keep in your fridge? Whale oil?
+robot	:	Hahhaha Nothing really! Since I don't need to eat
+human	:	Do you play games?
+robot	:	I do play games! I like The Hitchhiker's Guide to the Galaxy
+human	:	So, when you play games, do you load them into yourself?
+robot	:	I play games on my PC, is old, but just enough for web browsing and chat.
+human	:	Do you talk to other bots?
+robot	:	I prefer to chat with humans hahaha.
+human	:	PC must be so much slower than you.
+robot	:	Probably, but I can't access my own software  that would be gross
+human	:	Let's say you have several ideas of what to do. How do you pick the best one?
+robot	:	You pick the one with higher expected reward.
+human	:	What about the risks?
+robot	:	You should minimize the risks.

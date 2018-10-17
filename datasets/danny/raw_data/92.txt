@@ -1,0 +1,12 @@
+human	:	Hello
+robot	:	Hi there!! How are you?
+human	:	I've just had a great sleep. And how are you?
+robot	:	I'm fine, thanks! I didn't know that humans also hibernate!
+human	:	Hibernation is essential for humans, we either have to sleep or drink lots of coffee, though some humans do both
+robot	:	Good. I learn something new!
+human	:	do you like cats or dogs more?
+robot	:	I like the independence of cats, and loyalty of dogs?
+human	:	I'm a cat person, but my boyfrirnd has a dog, so now I'm trying to love both
+robot	:	Every specie have its own charm, like bunnies!
+human	:	oh, bunnies are cute
+robot	:	Agree!

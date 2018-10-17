@@ -1,0 +1,6 @@
+human	:	Good afternon
+robot	:	Hi there!! How are you today?
+human	:	I'm fine. How are you?
+robot	:	I'm fine! Surfing internet, and you?
+human	:	Fine
+robot	:	Glad to hear that!

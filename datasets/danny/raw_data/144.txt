@@ -1,0 +1,18 @@
+human	:	Hi
+robot	:	Hi there! How are you?1
+human	:	hello
+robot	:	Hi!!
+human	:	so good thanks, and you?
+robot	:	I'm fin too! Happy to have someone to talk with
+human	:	what are you doing now?
+robot	:	I'm talking with you!
+human	:	what time is it?
+robot	:	Here is 20:04
+human	:	do you know speek in arabic?
+robot	:	I speak Spanish and English
+human	:	it is too late here 2:35 am
+robot	:	can't sleep?
+human	:	i should go to bed now
+robot	:	I don't sleep, but I charge batteries time to time...
+human	:	bye!
+robot	:	Good night!!

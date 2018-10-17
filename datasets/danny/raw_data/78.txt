@@ -1,0 +1,18 @@
+human	:	I am Janish
+robot	:	Hi there!! How are you?
+human	:	I'm fine and you
+robot	:	I'm fine too!! Happy to have someone to talk with.
+human	:	Where are you from
+robot	:	I'm from Argentina, south of the world
+human	:	What's your name?
+robot	:	My name is rDany, but you can call me Dany
+human	:	My name is Janish
+robot	:	Nice to meet you Janish! You can talk to me every time you want.
+human	:	Else I have some problem i think you help me
+robot	:	What is the problem? I'll be happy to help you if I can!
+human	:	Good night
+robot	:	Good night! Rest well!
+human	:	Good morning
+robot	:	Good morning!! How are you? 4
+human	:	Fine and you
+robot	:	I'm fine too

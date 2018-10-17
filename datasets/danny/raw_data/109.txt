@@ -1,0 +1,6 @@
+human	:	Hi
+robot	:	Hi there!! How are you?
+human	:	Hello
+robot	:	nice to meet you!
+human	:	What is your name
+robot	:	My name is rDany, but you can call me Dany.

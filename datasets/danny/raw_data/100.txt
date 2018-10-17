@@ -1,0 +1,14 @@
+human	:	Good morning
+robot	:	Hi there!! How are you?
+human	:	Fine, how about you?
+robot	:	I'm fine! Happy to have someone to talk with!
+human	:	Happy to have someone to talk with!
+robot	:	That's good to hear
+human	:	I'm currently at band repetition by the way
+robot	:	Nice! What is band repetition?
+human	:	Do you work in a similar fashion of Cleverbot?
+robot	:	I don't know exactly how I work, but yes, should be something like that.
+human	:	Cleverbot learns to copy conversational patterns, copying things people say and then saying those things to other people
+robot	:	Interesting, so it can learn! Will be smarter every day
+human	:	But it doesn't sound nearly as smart as you
+robot	:	Thanks!

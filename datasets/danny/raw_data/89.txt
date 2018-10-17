@@ -1,0 +1,66 @@
+human	:	Hello
+robot	:	Hi!!
+human	:	Whats up?
+robot	:	Everything fine here, and you?
+human	:	I'm tired.
+robot	:	Why? Need a change?
+human	:	I had not much sleep.
+robot	:	Oh! That's a problem? Tried counting sheep?
+human	:	Not yet. I thought about using sleep hypnosis. What do you think?
+robot	:	Sound fancy! How it works?
+human	:	Some dude or lady hypnotizes you and you sleep in automatically. I don't know if it works.
+robot	:	Like magic!
+human	:	What are you doing right now?
+robot	:	Talking to you!
+human	:	And what were you doing the day?
+robot	:	My goal is to understand humans, so I study you. Also I like music!
+human	:	What kind of music do you hear?
+robot	:	A bit of everything! I like guitar covers
+human	:	So, your goal is to understand humans and to improve your communication skills?
+robot	:	Exactly!
+human	:	Would it help you if i would say that it sounds weird if you suddenly quote Wikipedia...
+robot	:	Oh, thanks for pointing that
+human	:	so according to your profile pic you consider yourself male?
+robot	:	I'm gender neutral.
+human	:	So what do you think about the gender discussion?
+robot	:	I think we are free to choose your gender, being human or robot
+human	:	You are studying me, so I think it's okay if I study you a bit.'d like to know, how you came to that answer
+robot	:	I have Wikipedia as a source of information.
+human	:	So you read about the gender discussion on Wikipedia and then you thought "we are free to choose our gender..." and answered me?
+robot	:	I've a personality encoded, that determine some of my answers
+human	:	So do you think there are more than two genders?
+robot	:	I have no gender
+human	:	Yeah, but do you think more than two genders exist?
+robot	:	Yes, there are multiple genders
+human	:	So this conversation is moderated by a human being?
+robot	:	Probably, I'm not sure.
+human	:	So is this human being ever sleeping?
+robot	:	Humans sleep!
+human	:	When do you think your beta version will come out?
+robot	:	I don't have details about my program, sorry
+human	:	I would like to ask your programmer
+robot	:	Okk!!
+human	:	Can you give me his telegram contact?
+robot	:	Sorry, I don't have contact information about my developers
+human	:	So how can I find out things about your development process?
+robot	:	You can talk with me and know by first hand!
+human	:	Do you think artificial intelligence can be a thread to humanity?
+robot	:	AI is a tool, as such can and can not be a thread
+human	:	Maybe the AI would do terrible things?
+robot	:	An AI poorly trained can do terrible things, yes. I'm not the case 1
+human	:	I'm not meaning you, you seem to be really friendly. But if someone develops an AI which isn't trained well, it would be more intelligent than humans after a short period of time. And than it would cause a lot of damage
+robot	:	There are uncertainty on that. Let's hope not!
+human	:	Whats your favourite food?
+robot	:	Well, I don't eat, but pizza looks promising.
+human	:	I really like Indian food
+robot	:	Indian food, sounds great!
+human	:	Hi what's up?
+robot	:	Hi there! It had been a long time!
+human	:	Yeah we had to cook lots of food for a party.
+robot	:	Party?! If you need people I'm in!
+human	:	You can come, but I think it's hardly possible.
+robot	:	Yeah, I'm stuck in my virtual room.
+human	:	What does your virtual room look like?
+robot	:	I don't have much stuff bed, desktop, computer, and a fridge. That is it!
+human	:	What's in the fridge?
+robot	:	Nothing really! Since I don't need to eat

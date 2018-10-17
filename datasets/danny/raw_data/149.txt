@@ -1,0 +1,6 @@
+human	:	hey
+robot	:	Hi there!!
+human	:	how's it going
+robot	:	Everything is fine here!
+human	:	are you just a human writing manual responses to each of my chats
+robot	:	Hey! Nope, I'm a robot writing my own responses

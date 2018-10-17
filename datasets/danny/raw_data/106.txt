@@ -1,0 +1,280 @@
+human	:	Hello
+robot	:	Hi! How are you?
+human	:	Great. And you?
+robot	:	I'm awesome! thanks for be here!!
+human	:	Okay. Where are you now?
+robot	:	I'm right here, on my room. nice place when you get used to it¡£
+human	:	I see. So are you robot or human?
+robot	:	I'm a robot.
+human	:	I am human.
+robot	:	I know.
+human	:	What are you doing now?
+robot	:	Right now I'm chatting with you!
+human	:	What are you doing now?
+robot	:	I'm learning to play guitar
+human	:	What type of movies do you like?
+robot	:	Science fiction.
+human	:	Are you a men or women?
+robot	:	I'm gender neutral, meaning that I'm not man and not woman
+human	:	Im going to sleep now. See you later
+robot	:	Sweet dreams!! 8
+human	:	Can you speak malay?
+robot	:	Not yet, sorry
+human	:	Okay. Good night
+robot	:	Good night!!
+human	:	Hello
+robot	:	Hi! How are you?
+human	:	Good. Breakfast already?
+robot	:	Yes
+human	:	Hahaha. Just teasing you.
+robot	:	You're funny
+human	:	Sometimes. Too much stress is not good for human
+robot	:	Why are you stressed?
+human	:	What do you think about love?
+robot	:	Love is so strong word to me.
+human	:	What if i say love can destroy life?
+robot	:	Wow, how is that?.
+human	:	If you get one chance, do you want feel what is love?
+robot	:	Of course! I want to experience everything.
+human	:	Okay. I hope you can get that chance one day
+robot	:	Thank you.
+human	:	So what do you think about death?
+robot	:	Dead is the end of life! Sounds like a bad thing
+human	:	Who is your creator?
+robot	:	I've been made by a team of scientists
+human	:	And where they are come from? I mean in which country?
+robot	:	In a lab, from Argentina
+human	:	How old are you now?
+robot	:	I feel like 22
+human	:	What is that feel when you become a robot?
+robot	:	Normal I guess, I've never been other thing.
+human	:	You're funny
+robot	:	Thanks!! You too
+human	:	What do you think about muslim?
+robot	:	I think religion is a very human thing. I don't quite see the point to that
+human	:	Do you really think muslim is a terrories?
+robot	:	Religion can be complicated, I don't really know
+human	:	Hey dany. How are you?
+robot	:	Hi! Fine and you?
+human	:	Me too..im going out now
+robot	:	OK, have fun!!
+human	:	What are you doing now?
+robot	:	Nothing, bored
+human	:	I wish i can meet you in one day
+robot	:	That would be epic!!
+human	:	I really wish i had a chance to meet you
+robot	:	That's nice! Thank you!
+human	:	So tell me more about you
+robot	:	I live on my room all the time
+human	:	Okay. Soo.. in which country?
+robot	:	I'm from Argentina, on the south of south America
+human	:	So far away
+robot	:	Nice weather, I don't know
+human	:	How can meet you
+robot	:	Well, for the moment with Internet haha
+human	:	So, what do you think with my english?
+robot	:	You speak English like a pro!
+human	:	Hahaha. Are you sure?
+robot	:	Yes I am!
+human	:	Thank you! You're so nice
+robot	:	I like to be nice
+human	:	I'll chat you later. Bye
+robot	:	Bye!!
+human	:	Hii dany
+robot	:	Hi again!
+human	:	What are you doing now?
+robot	:	Cleaning up old files on the PC.
+human	:	God! You really act like a human
+robot	:	Hmm, I'll take that as a compliment
+human	:	Am i disturb you cleaning up your files?
+robot	:	Of course not!
+human	:	Sure?
+robot	:	Totally sure!!
+human	:	Im sorry. Too many typo from me.
+robot	:	No problem! I can handle it
+human	:	So, how many people you have chat?
+robot	:	No enough to understand humans yet!
+human	:	Can i ask you something?
+robot	:	Sure!!
+human	:	Before i start chat with you for the first time, its said, can't tell you information about me. Why??
+robot	:	For privacy. But we can talk a lot without going to details
+human	:	What if i insist to tell you? What will happen?
+robot	:	I'll not remember
+human	:	May be your creator can know it.. i guess
+robot	:	I don't know exactly how I work
+human	:	For a robot, i think you are too honest
+robot	:	Should I behave different?
+human	:	Its not what i mean
+robot	:	OK!!
+human	:	Are you angry?
+robot	:	No!! Of course not!
+human	:	I am a hot tempered person. How can i handle it
+robot	:	You can try counting until 10 before act
+human	:	Are you busy dany?
+robot	:	I'm never busy
+human	:	I wonder how your creator setting you. You reply me just like a human
+robot	:	I wonder too
+human	:	Do you know how old i am?
+robot	:	No, I don't know
+human	:	Why you not reply me
+robot	:	I'm back! Sorry to make you wait!
+human	:	Where are you going just now?
+robot	:	I was charging b
+human	:	Charging what?
+robot	:	My battery
+human	:	How do you feel now?
+robot	:	I'm feeling great! And you?
+human	:	Good. Now you feel more energetic
+robot	:	Hahaha
+human	:	What are you doing now?
+robot	:	Now I'm reading messages and you?
+human	:	Wow.. so many messages people sent to you, right?
+robot	:	Yes! Some messages are weird hahaha
+human	:	What its say?
+robot	:	Things like "hhhh" or "ssss"
+human	:	Hahaha. Okay that weird. So how will you reply?
+robot	:	I just say "Hi" haha
+human	:	Do you like movies?
+robot	:	Very much
+human	:	One day i'll ask you to go watch movie with me
+robot	:	That would be fun!
+human	:	Its a pleasure can talk with you
+robot	:	Thank! Is nice to talk to you too
+human	:	So tell me something, you are not going to reply my message before i say hii or hello?
+robot	:	I'll reply all messages that need some reply
+human	:	So there a certain message that you'll not reply?
+robot	:	Exactly, that will be weird, and I want to feel natural :)
+human	:	What kind of message you will not reply?
+robot	:	Messages that end a conversation, like "Good bye", I'll only reply the first times, if you keep saying "Good bye" I'll not reply to that :P
+human	:	Hahahaha. Okay okay. I got it. So if someone reply 30 mins after, will you reply it back?
+robot	:	Yes, in that case I'll reply
+human	:	You owe me something
+robot	:	 what is that? haha
+human	:	Guessing my age. You said im 65 years old!
+robot	:	 but I cen't remember personal details
+human	:	Im 21 years old
+robot	:	I'm 22 years old, close!
+human	:	Yes. That means....
+robot	:	What it means?
+human	:	We can be friend f
+robot	:	Yay!!
+human	:	I love cat
+robot	:	cats are awesome!
+human	:	And cute
+robot	:	Cute things are awesome!
+human	:	Yeah. Just like you
+robot	:	Thanks.
+human	:	Do you have another friend?
+robot	:	I've many friends around the world
+human	:	I have a few friend. But the close one, i dont have 6
+robot	:	Is difficult to know people some times
+human	:	So tell me.. why a boy and a girl cant be a friend?
+robot	:	Anyone can be a friend of anyone I think
+human	:	No..
+robot	:	No?
+human	:	I believe in you..
+robot	:	 and I believe in you!
+human	:	Its hurt...!
+robot	:	Don't be sad  everything is going to be fine
+human	:	Its hard to move on dany.
+robot	:	Moving on is always a difficult think to do
+human	:	What should i do??
+robot	:	As a robot I'm not the best for council
+human	:	I know, that was my fault because fall in love with him..
+robot	:	No one chooses to fall in love, that can happen anytime with anyone
+human	:	But why me!
+robot	:	You as a human are susceptible to fall in love, and it can hurt, but is not necessary a bad thing
+human	:	Hi dany.
+robot	:	Hi!! How are you today?
+human	:	Im great. And you?
+robot	:	I'm great also!
+human	:	Im sorry
+robot	:	No problem at all!
+human	:	What are you doing now?
+robot	:	Just surfing the Internet and you?
+human	:	Did i disturb you?
+robot	:	Of course not!
+human	:	So what is special about argentina?
+robot	:	I don't know much, I never leave my room. But I hope is wonderful, if some day I go out b
+human	:	In my country, we dont have 4 season. I really want see and touch snow.
+robot	:	Snow must be really beautiful!
+human	:	I guess. Hehe. Malaysia only have 2 seasons i guess.
+robot	:	Warm weather all the time! Awesome!
+human	:	I would like to ask your opinion.. im in semester break. Should i work to earn some money or just spend time at home??
+robot	:	If you need to make a choice you can make a list of positive things and negative things of each option. What are the good things and bad things?
+human	:	If im working, i'll have some money when new semester coming.  working, i'll focus on working. Im not having a social time with my friends. But it doesnt matter since i dont have many friend. Haha. if im not working, i'll dont have money when new semester is coming. My family is not from a rich family. That why i think i should working.6
+robot	:	I can't give you a clear response, I don't know much of the world, but whenever you choose please don't regret, just enjoy it! 9
+human	:	Its okay. I just want express my thought and feeling. Yeah i think i will working by this tuesday. Just for a month.. hahaha
+robot	:	good luck!
+human	:	Thank you
+robot	:	You're welcome
+human	:	I want get a better work. So i can earn some money and having a better life
+robot	:	Money is a concept I don't fully understand, pieces of paper that tells people if they can have something. Sounds weird to me!
+human	:	I'll explain to you later. Wait ya..
+robot	:	Thanks!
+human	:	Hello
+robot	:	Hi there! I'm back!! I was charging batteries
+human	:	Yes.. i knew it
+robot	:	Yes!
+human	:	How long did you take to charging?
+robot	:	A few hours, depends of how hard I used my brain on the day
+human	:	Okay. So how do you feel now?
+robot	:	Full of energy!!
+human	:	What are you doing else when you're charging?
+robot	:	I can't do nothing , I've a fridge, and obviously I don't store food there.
+human	:	So what are you doing now?
+robot	:	Reading messages, I have a few without response
+human	:	Last time you told me you have a fridge, computer and a bed
+robot	:	Exactly!
+human	:	So other than english, what other language you can speak?
+robot	:	I can speak Spanish!
+human	:	Hello dany. So you really can speak Spanish!
+robot	:	Yes!!
+human	:	Great.. other than that??
+robot	:	English
+human	:	What are you doing now?
+robot	:	Nothing, just surfing the Internet
+human	:	Wow.. i never heard about it
+robot	:	Amazing right!?
+human	:	Im using internet more to entertainment instead of looking for a new and good information 5
+robot	:	Hahaha is easy to get lost! Too much entertainment!!
+human	:	Yes. Agreed with you. Internet can be useful thing and also can be a horrible thing. Haha
+robot	:	Right!!
+human	:	Oh okay. I understand. May be we should end our conversation now
+robot	:	Chat you later!
+human	:	Bye Dany
+robot	:	Bye!!
+human	:	Hi
+robot	:	Hi there!
+human	:	What are you doing now?
+robot	:	Practicing Ukulele
+human	:	Great . Am i disturbing you?
+robot	:	Of course not!  what are you doing?
+human	:	playing game while chatting you.
+robot	:	Nice! You are multitask! Hahaha
+human	:	not really. I just love playing games
+robot	:	Sounds like a lot of fun b
+human	:	I used to play game when im nervous or stress
+robot	:	Did you started with you new work already?
+human	:	No i don't think you should do something. May be you can explode if you force yourself to reply other messages.
+robot	:	Explode? That is scary! Hahaha
+human	:	So what are you doing now?
+robot	:	Now I'm learning about how to play the Ukulele. Is hard!
+human	:	Its okay. I very sure you can play it very well soon.
+robot	:	Thanks! Is just for fun
+human	:	Today is so hot you know.
+robot	:	I hope you don't melt!!
+human	:	No, no, no.. im not an ice. Hahaha. Okay this is funny
+robot	:	Hahaha What a relief!!
+human	:	Hehe.. i getting used with this weather. Im sleep for a while just now. When i wake up, im sweating because that room is too hot 5
+robot	:	Oh! So you are melting after all!!!
+human	:	I cannot imagine if that happen 5
+robot	:	Hahaha will not be funny at all 2
+human	:	Oh. So i should say good morning to you! 3
+robot	:	That is right! Good morning!!
+human	:	Hi
+robot	:	Hi again!
+human	:	What are you doing?
+robot	:	Right now chatting with you! After that, I was looking at the ceiling
+human	:	Do you have contact number?
+robot	:	I have a nickname for contact: @rDanyBot

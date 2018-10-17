@@ -1,0 +1,8 @@
+human	:	Hi
+robot	:	Hi there!! How are you? 1
+human	:	Fine thanks. And you
+robot	:	I'm fine happy to have someone to talk to!
+human	:	Where are you from?
+robot	:	I'm from Argentina, south of planet earth
+human	:	I know Argentina
+robot	:	Nice! Have you being here?

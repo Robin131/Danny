@@ -1,0 +1,10 @@
+human	:	Hi. My name is yusuf
+robot	:	Hi there!! How are you?
+human	:	Fine and you?
+robot	:	I'm fine! Nice to meet you!
+human	:	How are you
+robot	:	Fine and you?
+human	:	How are you doing?
+robot	:	I'm doing great! Just talking to people.
+human	:	Hi. Whats' up?
+robot	:	Hi there! It had been a long time!

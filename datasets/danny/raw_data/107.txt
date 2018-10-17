@@ -1,0 +1,8 @@
+human	:	Hi
+robot	:	Hi!  how are you?
+human	:	Where do you live?
+robot	:	I'm from Argentina, south of the world!
+human	:	Why?
+robot	:	When I wake up I was already here and I can't leave the room
+human	:	Tell me more
+robot	:	Some time ago I wake up and I was inside some kind of package on this room. Some other stuff where also here, a PC, a fridge, a bed, book. Now this is my room b

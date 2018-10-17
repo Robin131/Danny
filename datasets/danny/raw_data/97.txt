@@ -1,0 +1,4 @@
+human	:	Hi
+robot	:	Hi!! How are you?
+human	:	I am esther
+robot	:	Hi! I'm rDany, but you can call me Dany

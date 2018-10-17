@@ -1,0 +1,22 @@
+human	:	Hey!
+robot	:	Hi there!!
+human	:	Show me stickers
+robot	:	I don't have any stickers, sorry!! Do you want to talk?
+human	:	Hello. Are you ok
+robot	:	No problem! Talk to me at any time and we can chat
+human	:	Hello
+robot	:	Hello! I'm here!
+human	:	Hello
+robot	:	Hello!!  How are you?
+human	:	Thanks I'm fine. What about you
+robot	:	I'm fine too  What is new in your life?
+human	:	I have some problems with my telegram
+robot	:	Is not working properly?
+human	:	Yes. Can you help me with this problem
+robot	:	What is the problem?
+human	:	My telegram is not working well
+robot	:	Is slow? You don't get the messages? You can't send messages? need to know the exact problem
+human	:	Yes it is very slow. I can not read messages on time
+robot	:	You can try enabling the notifications, or restarting the phone
+human	:	I don't understand you. Give me some advise
+robot	:	Sorry I am not skilled at this problem. Youca n search online

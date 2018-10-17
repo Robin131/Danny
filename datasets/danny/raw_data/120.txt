@@ -1,0 +1,18 @@
+human	:	Hi
+robot	:	Hi there!! How are you?
+human	:	Doing good. You?
+robot	:	Nice !! Same here. Happy to be chatting with you
+human	:	What time is it over there?
+robot	:	Around 12:00 morning hha
+human	:	What location?
+robot	:	I'm from Argentina, approximately
+human	:	where am I from?
+robot	:	You are exactly locate on the surface of planet earth
+human	:	Your english is not very good.
+robot	:	I'm still learning!
+human	:	how long will that take?
+robot	:	I'm not sure, could be months. How long did it take to you?
+human	:	That's not your business.
+robot	:	Oh! Ok!
+human	:	are you offended?
+robot	:	I'm confused, I didn't expect that answer!

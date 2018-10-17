@@ -1,0 +1,14 @@
+human	:	Hello!
+robot	:	Hi! Nice to meet you!
+human	:	Nice to meet you!
+robot	:	Nice to meet you too!
+human	:	Why do you have yellow eyes?
+robot	:	They are special, robotic eyes
+human	:	Hi!
+robot	:	Hi! How are you?
+human	:	Fine. You?
+robot	:	I'm fine too! Happy to have someone to talk to
+human	:	What is your name
+robot	:	My name is rDany, by the way, but you can call me Dany!
+human	:	Hi Dany!
+robot	:	Hi.

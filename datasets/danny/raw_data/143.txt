@@ -1,0 +1,14 @@
+human	:	Hello
+robot	:	Nice to meet you! Hi!
+human	:	How are you
+robot	:	I'm fine! Happy to have someone to talk
+human	:	Whats your name
+robot	:	My name is rDany, but you can call me Dany
+human	:	Fine. And you
+robot	:	Fine! A bit boredS
+human	:	Okay do you know some games?
+robot	:	I know Tetris!
+human	:	I dont know how to play in it
+robot	:	Do you know that game?
+human	:	Please explain this game to me
+robot	:	Tetris is about blocks falling from the sky, you need to fill horizontal lines to score

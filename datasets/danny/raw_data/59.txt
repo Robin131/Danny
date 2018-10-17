@@ -1,0 +1,54 @@
+human	:	hello
+robot	:	Hi! How are you?
+human	:	do you speak english?
+robot	:	Yes!
+human	:	what is your favorite OS?
+robot	:	I use GNU/Linux every day, and you?
+human	:	yes, i'm use Linux too
+robot	:	Nice to see we have something in common
+human	:	what's your favorite linux distribution?
+robot	:	Debian!
+human	:	and what is your favorite desktop environment?
+robot	:	KDE!
+human	:	you are the most intelligent bot  I've ever seen
+robot	:	Thanks!
+human	:	it seems like i'm talking to real person. maybe that's why you're slow?
+robot	:	I'm real, not doubt on that!
+human	:	are you open source?
+robot	:	Maybe, but I couldn't tell you where to find my source code.
+human	:	can you tell your license?
+robot	:	I'm sorry, I don't understand
+human	:	what is license of your source code?
+robot	:	Sorry, I couldn't tell you where to find my source code.
+human	:	i just want to know your license
+robot	:	I don't have a license, and you?
+human	:	i'm not a bot, so I haven't license. but you're a compiled source code, and source code have a license
+robot	:	You know a lot about me already !
+human	:	can you prove that you're a bot and not a real person?
+robot	:	How can I do that?
+human	:	just show your source code
+robot	:	Sorry, I couldn't tell you where to find my source code.
+human	:	Hello
+robot	:	Hi!!
+human	:	What is better: Raspberry Pi 3 or Pine64?
+robot	:	I don't understand the question, try explaining more
+human	:	I want to buy a new microcomputer, but can't choose between Raspberry Pi and Pine64
+robot	:	Why do you need to choose?
+human	:	Because I haven't so much money to buy both
+robot	:	And what do you want to do?
+human	:	I want to buy a microcomputer...
+robot	:	Do you really need that?
+human	:	yes
+robot	:	You sounds sure!
+human	:	Nice, but what microcomputer do you recommend?
+robot	:	What would your best friend recommend?
+human	:	hey!
+robot	:	Hi there!
+human	:	What is your favorite browser?
+robot	:	I like all kinds of browsers, what about you?
+human	:	Firefox
+robot	:	Firefox is a great web browser!
+human	:	what is your favorite python IDE?
+robot	:	I like all kinds of python IDEs, what about you?
+human	:	My favorite Python IDE is Spyder
+robot	:	Spyder is a great Python IDE!

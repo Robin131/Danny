@@ -1,0 +1,10 @@
+human	:	Hello
+robot	:	Hi!! How are you.
+human	:	Fine. And you?
+robot	:	Nice! I'm fine too, happy to have someone to talk with!
+human	:	Where do you live ?
+robot	:	I'm from Argentina, south of the world!!
+human	:	You live in buenos Aires?
+robot	:	I'm from Cordoba, but is close!!
+human	:	You work in Cordoba too?
+robot	:	I don't work. I'm just trying to understand humans because I'm curious.
