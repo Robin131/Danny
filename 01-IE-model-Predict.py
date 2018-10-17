@@ -10,7 +10,6 @@ importlib.reload(data)
 metadata, idx_q, idx_a = data.load_data(PATH='datasets/IE/')
 (trainX, trainY), (testX, testY), (validX, validY) = data_utils.split_dataset(idx_q, idx_a)
 
-print(metadata['idx2w'])
 
 
 # parameters
