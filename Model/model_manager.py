@@ -46,11 +46,19 @@ def get_model():
 if __name__ == '__main__':
     dm, im, ds, i_s, dmt, imt = get_model()
 
-    txt = 'I like to read'
+    txt = 'I like to reading'
     d_q = d_data.split_sentence(txt, dmt)
     input_ = d_q.T
     output_ = dm.predict(ds, input_)
     print(output_)
-    # answer = data_utils.decode(sequence=output_[0], lookup=dmt['idx2w'], separator=' ')
-    # print(answer)
+    answer = data_utils.decode(sequence=output_[0], lookup=dmt['idx2w'], separator=' ')
+    print(answer)
+
+    txt = 'I like to reading'
+    i_q = IE_data.split_sentence(txt, imt)
+    input_ = i_q.T
+    output_ = im.predict(i_s, input_)
+    print(output_)
+    answer = data_utils.decode(sequence=output_[0], lookup=imt['idx2w'], separator=' ')
+    print(answer)
 
