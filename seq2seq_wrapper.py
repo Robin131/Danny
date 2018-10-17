@@ -30,56 +30,58 @@ class Seq2Seq(object):
         #  attach any part of the graph that needs to be exposed, to the self
         def __graph__():
 
-            # placeholders
-            tf.reset_default_graph()
-            #  encoder inputs : list of indices of length xseq_len
-            self.enc_ip = [ tf.placeholder(shape=[None,], 
-                            dtype=tf.int64, 
-                            name='ei_{}'.format(t)) for t in range(xseq_len) ]
+            # # placeholders
+            # tf.reset_default_graph()
+            self.g = tf.Graph()
+            with self.g.as_default():
+                #  encoder inputs : list of indices of length xseq_len
+                self.enc_ip = [ tf.placeholder(shape=[None,],
+                                dtype=tf.int64,
+                                name='ei_{}'.format(t)) for t in range(xseq_len) ]
 
-            #  labels that represent the real outputs
-            self.labels = [ tf.placeholder(shape=[None,], 
-                            dtype=tf.int64, 
-                            name='ei_{}'.format(t)) for t in range(yseq_len) ]
+                #  labels that represent the real outputs
+                self.labels = [ tf.placeholder(shape=[None,],
+                                dtype=tf.int64,
+                                name='ei_{}'.format(t)) for t in range(yseq_len) ]
 
-            #  decoder inputs : 'GO' + [ y1, y2, ... y_t-1 ]
-            self.dec_ip = [ tf.zeros_like(self.enc_ip[0], dtype=tf.int64, name='GO') ] + self.labels[:-1]
-
-
-            # Basic LSTM cell wrapped in Dropout Wrapper
-            self.keep_prob = tf.placeholder(tf.float32)
-            # define the basic cell
-            basic_cell = tf.contrib.rnn.DropoutWrapper(
-                    tf.contrib.rnn.BasicLSTMCell(emb_dim, state_is_tuple=True),
-                    output_keep_prob=self.keep_prob)
-            # stack cells together : n layered model
-            stacked_lstm = tf.contrib.rnn.MultiRNNCell([basic_cell]*num_layers, state_is_tuple=True)
+                #  decoder inputs : 'GO' + [ y1, y2, ... y_t-1 ]
+                self.dec_ip = [ tf.zeros_like(self.enc_ip[0], dtype=tf.int64, name='GO') ] + self.labels[:-1]
 
 
-            # for parameter sharing between training model
-            #  and testing model
-            with tf.variable_scope('decoder') as scope:
-                # build the seq2seq model 
-                #  inputs : encoder, decoder inputs, LSTM cell type, vocabulary sizes, embedding dimensions
-                self.decode_outputs, self.decode_states = tf.contrib.legacy_seq2seq.embedding_rnn_seq2seq(self.enc_ip,self.dec_ip, stacked_lstm,
-                                                    xvocab_size, yvocab_size, emb_dim)
-                # share parameters
-                scope.reuse_variables()
-                # testing model, where output of previous timestep is fed as input 
-                #  to the next timestep
-                self.decode_outputs_test, self.decode_states_test = tf.contrib.legacy_seq2seq.embedding_rnn_seq2seq(
-                    self.enc_ip, self.dec_ip, stacked_lstm, xvocab_size, yvocab_size,emb_dim,
-                    feed_previous=True)
+                # Basic LSTM cell wrapped in Dropout Wrapper
+                self.keep_prob = tf.placeholder(tf.float32)
+                # define the basic cell
+                basic_cell = tf.contrib.rnn.DropoutWrapper(
+                        tf.contrib.rnn.BasicLSTMCell(emb_dim, state_is_tuple=True),
+                        output_keep_prob=self.keep_prob)
+                # stack cells together : n layered model
+                stacked_lstm = tf.contrib.rnn.MultiRNNCell([basic_cell]*num_layers, state_is_tuple=True)
 
-            # now, for training,
-            #  build loss function
 
-            # weighted loss
-            #  TODO : add parameter hint
-            loss_weights = [ tf.ones_like(label, dtype=tf.float32) for label in self.labels ]
-            self.loss = tf.contrib.legacy_seq2seq.sequence_loss(self.decode_outputs, self.labels, loss_weights, yvocab_size)
-            # train op to minimize the loss
-            self.train_op = tf.train.AdamOptimizer(learning_rate=lr).minimize(self.loss)
+                # for parameter sharing between training model
+                #  and testing model
+                with tf.variable_scope('decoder') as scope:
+                    # build the seq2seq model
+                    #  inputs : encoder, decoder inputs, LSTM cell type, vocabulary sizes, embedding dimensions
+                    self.decode_outputs, self.decode_states = tf.contrib.legacy_seq2seq.embedding_rnn_seq2seq(self.enc_ip,self.dec_ip, stacked_lstm,
+                                                        xvocab_size, yvocab_size, emb_dim)
+                    # share parameters
+                    scope.reuse_variables()
+                    # testing model, where output of previous timestep is fed as input
+                    #  to the next timestep
+                    self.decode_outputs_test, self.decode_states_test = tf.contrib.legacy_seq2seq.embedding_rnn_seq2seq(
+                        self.enc_ip, self.dec_ip, stacked_lstm, xvocab_size, yvocab_size,emb_dim,
+                        feed_previous=True)
+
+                # now, for training,
+                #  build loss function
+
+                # weighted loss
+                #  TODO : add parameter hint
+                loss_weights = [ tf.ones_like(label, dtype=tf.float32) for label in self.labels ]
+                self.loss = tf.contrib.legacy_seq2seq.sequence_loss(self.decode_outputs, self.labels, loss_weights, yvocab_size)
+                # train op to minimize the loss
+                self.train_op = tf.train.AdamOptimizer(learning_rate=lr).minimize(self.loss)
 
         sys.stdout.write('<log> Building Graph ')
         # build comput graph
@@ -184,9 +186,11 @@ class Seq2Seq(object):
                 return sess
 
     def restore_last_session(self):
-        saver = tf.train.Saver()
+        with self.g.as_default():
+            saver = tf.train.Saver()
         # create a session
-        sess = tf.Session()
+        gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.333)
+        sess = tf.Session(graph=self.g, config=tf.ConfigProto(gpu_options=gpu_options))
         # get checkpoint state
         ckpt = tf.train.get_checkpoint_state(self.ckpt_path)
         # restore session
@@ -206,6 +210,5 @@ class Seq2Seq(object):
         # print(dec_op_v.shape)
         # return the index of item with highest probability
         return np.argmax(dec_op_v, axis=2)
-
 
 
