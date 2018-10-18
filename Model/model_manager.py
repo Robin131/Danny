@@ -1,7 +1,7 @@
 from datasets.danny import data as d_data
 from datasets.IE import data as IE_data
-import data_utils
-import seq2seq_wrapper
+from datasets import data_utils
+from Model import seq2seq_wrapper
 import importlib
 
 def get_model():

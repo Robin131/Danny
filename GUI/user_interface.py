@@ -2,6 +2,7 @@
 # _*_ coding:utf-8 _*_
 
 from tkinter import *
+import tkinter.font as tkFont
 import time
 
 '''
@@ -13,10 +14,12 @@ import time
 
 
 def msgsend():
-    msg = '我' + time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()) + '\n'
+    msg = ''
     txt_msglist.insert(END, msg, 'green')  # 添加时间
-    txt_msglist.insert(END, txt_msgsend.get('0.0', END))  # 获取发送消息，添加文本到消息列表
+    txt_msglist.insert(END, txt_msgsend.get('0.0', END), 'green')  # 获取发送消息，添加文本到消息列表
+    txt_msglist.see(END)
     txt_msgsend.delete('0.0', END)  # 清空发送消息
+
 
 
 '''定义取消发送 消息 函数'''
@@ -46,6 +49,9 @@ f_msglist = Frame(height=300, width=300)  # 创建<消息列表分区 >
 f_msgsend = Frame(height=300, width=300)  # 创建<发送消息分区 >
 f_floor = Frame(height=100, width=300)  # 创建<按钮分区>
 f_right = Frame(height=700, width=100)  # 创建<图片分区>
+
+'''字体'''
+
 
 '''创建控件'''
 txt_msglist = Text(f_msglist)  # 消息列表分区中创建文本控件

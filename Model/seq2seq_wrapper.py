@@ -31,7 +31,7 @@ class Seq2Seq(object):
         def __graph__():
 
             # # placeholders
-            # tf.reset_default_graph()
+            tf.reset_default_graph()
             self.g = tf.Graph()
             with self.g.as_default():
                 #  encoder inputs : list of indices of length xseq_len
@@ -167,6 +167,8 @@ class Seq2Seq(object):
                         # print('val res:')
                         # print(replies)
                         sys.stdout.flush()
+                        if val_loss <= 0.1:
+                            return
 
                         # try preset data and save
                         if not self.loss_path == '':
