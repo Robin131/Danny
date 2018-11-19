@@ -1,0 +1,98 @@
+human	:	Hi, nice to meet you!
+robot	:	Nice to meet you too.
+human	:	My name is Joseph Smith. 
+robot	:	Hi, Joseph.
+human	:	No. That guy may have the same name as me. Actually, I study in McGill.
+robot	:	Wow, that's a very famous university!
+human	:	No, my major is the same as you.
+robot	:	It's even better!
+human	:	Yeah, sure. When is it?
+robot	:	It's on this Friday night.
+human	:	Okay, I might bring my roommate.
+robot	:	That's great.
+human	:	John.
+robot	:	OK! 
+human	:	Unfortunately, I don't have one lol. Forget it.
+robot	:	Oh Sorry bro.
+human	:	Yeah sure. It's 12345678.
+robot	:	Okay, thank you.
+human	:	Nice to meet you too.
+robot	:	Thank you.
+human	:	Montreal.
+robot	:	Wow, I'm from here too. 
+human	:	Joseph Smith. 
+robot	:	Hi, Joseph.
+human	:	I am 23.
+robot	:	Cool, I am 22.
+human	:	I'm a student of UdeM.
+robot	:	Wow, that's a very good university! By the way, I'm from McGill, hope we can meet someday.
+human	:	No, my major is Mathematics.
+robot	:	Excellent! I used to consider majoring at that too, but I chose Computer Science at last.
+human	:	Why not. When is it?
+robot	:	It's on this Friday night.
+human	:	Okay, I might bring my roommate.
+robot	:	Cool.
+human	:	John.
+robot	:	OK!
+human	:	Yeah sure. It's 12345678.
+robot	:	Okay, thank you.
+human	:	Hi, yes here 
+robot	:	How are you?
+human	:	I am fine. I am Joseph Smith. What about you? 
+robot	:	Hi, Joseph. I am fine too
+human	:	I am 23.
+robot	:	Cool, I am 22.
+human	:	Yeah, I study in University of Montreal.
+robot	:	Wow, that's a very good university!
+human	:	No, my major is Mathematics.
+robot	:	Mathematics is tough subject but I like too
+human	:	Yes I am interested, When is it?
+robot	:	It's on this coming Friday night.
+human	:	Okay, I might bring my roommate.
+robot	:	That's cool!
+human	:	John.
+robot	:	OK! 
+human	:	Unfortunately, I don't have one lol. Forget it.
+robot	:	Oh Sorry bro.
+human	:	Yeah sure. It's 12345678.
+robot	:	Okay, thank you. Talk to you later.
+human	:	Bye
+robot	:	Bye
+human	:	Hi guy!, g2cu.
+robot	:	Good to see u too.
+human	:	This is Joseph Smith. 
+robot	:	Hi, Joseph.
+human	:	I just got 23 years old yesterday.
+robot	:	Cool, so Happy Birthday.
+human	:	Yea, I' m a student, but in University of Montreal.
+robot	:	Wow, that's a very good university!	
+human	:	Yea, you are right but I like Maths so I study Mathematics.
+robot	:	It's good also!
+human	:	Wow, I love partys. Could you tell me when please?
+robot	:	It's on this Friday night.
+human	:	Really! My bf (best friend) will be happy to come to the party.
+robot	:	That's cool!
+human	:	His name is John.
+robot	:	OK!
+human	:	Wow! It'll be greate, Sure she'll come with me. Tyvm.
+robot	:	You are welcomed.
+human	:	Sure, her name is Dina.
+robot	:	Okay, gotcha.
+human	:	Sure. It's 12345678.
+robot	:	Okay, see you there. kit.
+human	:	Hi, nice to meet you!
+robot	:	Nice to meet you, too!
+human	:	My name is Joseph Smith. 
+robot	:	Hi, Joseph.
+human	:	University of Montreal.
+robot	:	Wow, that's a very good university! I've heard that their CS major is pretty strong.
+human	:	No, I major in Mathematics, it's good as well. 
+robot	:	Yes, I think so. Udem is srtong at all science subjects. 
+human	:	Ok, I would really like to go. When is it?
+robot	:	It's on this Saturday night.
+human	:	I might just bring my roommate. 
+robot	:	No problem!
+human	:	It's John.
+robot	:	OK!
+human	:	Yeah sure. It's 12345678.
+robot	:	Then see you on Saturday night.

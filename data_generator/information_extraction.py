@@ -75,11 +75,11 @@ def hobby():
     sentence = [
         ('', ''),
         ('I love ', ''),
-        ('I love ', 'most'),
+        ('I love ', ' most'),
         ('I like to ', ''),
-        ('I like to ', 'most'),
+        ('I like to ', ' most'),
         ('I like ', ''),
-        ('I like ', 'most'),
+        ('I like ', ' most'),
     ]
 
     hobby = [

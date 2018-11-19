@@ -1,20 +1,21 @@
 # preprocessed data
-from datasets.IE import data
+from datasets.danny import data
 from datasets import data_utils
 from Model import seq2seq_wrapper
 
 # load data from pickle and npy files
-metadata, idx_q, idx_a = data.load_data(PATH='../datasets/IE/')
+metadata, idx_q, idx_a = data.load_data(PATH='../datasets/Protector_personal/')
 (trainX, trainY), (testX, testY), (validX, validY) = data_utils.split_dataset(idx_q, idx_a)
 
 
 # parameters
 xseq_len = trainX.shape[-1]
 yseq_len = trainY.shape[-1]
-batch_size = 64
+batch_size = 32
 xvocab_size = len(metadata['idx2w'])
 yvocab_size = xvocab_size
 emb_dim = 1024
+
 
 # In[7]:
 
@@ -22,12 +23,12 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                yseq_len=yseq_len,
                                xvocab_size=xvocab_size,
                                yvocab_size=yvocab_size,
-                               ckpt_path='../ckpt/IE/',
+                               ckpt_path='../ckpt/Protector/',
                                loss_path='',
                                metadata=metadata,
                                emb_dim=emb_dim,
                                num_layers=3,
-                               epochs=2001
+                               epochs=1001
                                )
 
 
