@@ -28,7 +28,7 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                metadata=metadata,
                                emb_dim=emb_dim,
                                num_layers=3,
-                               epochs=1001
+                               epochs=101
                                )
 
 
