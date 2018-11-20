@@ -7,7 +7,7 @@ import importlib
 importlib.reload(data)
 
 # load data from pickle and npy files
-metadata, idx_q, idx_a = data.load_data(PATH='../datasets/IE/')
+metadata, idx_q, idx_a = data.load_data(PATH='../datasets/Protector_persona_IE/')
 (trainX, trainY), (testX, testY), (validX, validY) = data_utils.split_dataset(idx_q, idx_a)
 
 
@@ -23,7 +23,7 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                yseq_len=yseq_len,
                                xvocab_size=xvocab_size,
                                yvocab_size=yvocab_size,
-                               ckpt_path='../ckpt/IE/',
+                               ckpt_path='../ckpt/PI_IE/',
                                loss_path='',
                                metadata=metadata,
                                emb_dim=emb_dim,
