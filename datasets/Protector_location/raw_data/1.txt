@@ -1,0 +1,124 @@
+human	:	Nice to meet you!
+robot	:	I am a friend of your roommate Joseph. You can call me Victor.
+human	:	Yeah, I can't wait to enjoy it!
+robot	:	Me too.
+human	:	Yeah, it is snowy but it's convenient for me to get there.
+robot	:	Wow, glad to hear that. I hope the public transportation near your house works well.
+human	:	I am sorry to hear that. But I can just take the 51 Bus. It runs well every day.
+robot	:	That's good. 
+human	:	Well, yes. It is called Provigo. It is one of the largest supermarkets near my house. I will go there to find that cola.
+robot	:	Okay, thanks a lot!
+human	:	I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.
+robot	:	Okay, thank you.
+human	:	You are welcomed!
+robot	:	Then see you at the welcome party!
+human	:	Cya!
+robot	:	#
+human	:	Hello!
+robot	:	I am a friend of your roommate Joseph. My name is Victor.
+human	:	Yeah, he has told me about that, that¡¯s great. I would like to come.
+robot	:	That¡¯s great. I bet you will have a nice Friday this week.
+human	:	Yes, I have lived here for 23 years. What¡¯s your problem?
+robot	:	I just arrived here a week ago. 
+human	:	Yeah, of course. What do you want to know?
+robot	:	#
+human	:	Well, I often go to Provigo. It is one of the largest supermarkets here.
+robot	:	Okay, thank you.
+human	:	Actually, it is a franchise store, so you can just pick the one near you.
+robot	:	Okay. 
+human	:	I often go to Lola Rosa with my friends. It is near my home. The food there is the best.
+robot	:	Awesome!
+human	:	Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.
+robot	:	Okay, that's great.
+human	:	I am not sure. I seldom go to the theater to watch movies. Maybe you should ask Joseph, he is the expert at movies.
+robot	:	Okay, thank you.
+human	:	You are welcome!
+robot	:	#
+human	:	It is fine for me, I can just take bus 51 there. 
+robot	:	Good to hear that.
+human	:	Cya!
+robot	:	#
+human	:	I am fine. Thank you.
+robot	:	#
+human	:	Hi, Victor! How are you?
+robot	:	I am fine. Thank you! 
+human	:	Yes, thanks for inviting!
+robot	:	My pleasure! It¡¯s always to know some new friends as a visiting student.
+human	:	Yes, of course, How can I help you?
+robot	:	I just arrived here a week ago. 
+human	:	Yeah, of course. What do you want to know?
+robot	:	#
+human	:	Well, I often go to Provigo. It is one of the largest supermarkets here.
+robot	:	#
+human	:	Actually, it is a franchise store, so you can just pick the one near you.
+robot	:	Okay. Gotcha.
+human	:	Yes, mostly we go to Lola Rosa. It is on Parc Avenue.
+robot	:	#
+human	:	Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.
+robot	:	Okay, that¡¯s fine.
+human	:	I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.
+robot	:	Okay, thank you.
+human	:	You are welcomed! Nice to meet you too
+robot	:	Thanks!
+human	:	No worry, I can take bus directly there.
+robot	:	Good to hear that.
+human	:	Ok, thank you.
+robot	:	No prob.
+human	:	See you.
+robot	:	#
+human	:	Hi!
+robot	:	#
+human	:	Hi, Victor! Nice to meet you!
+robot	:	Mice to meet you, too.
+human	:	Yeah, thanks for inviting!
+robot	:	My pleasure! It's always to know some new friends as a visiting student.
+human	:	Sure, why not if I can?
+robot	:	I just arrived here a week ago. 
+human	:	Yeah, of course. What do you want to know?
+robot	:	#
+human	:	Provigo, it's the nearest and cheapest one, It is one of the largest supermarkets here.
+robot	:	#
+human	:	You don't need the address, it is a franchise store, available everywhere.
+robot	:	Okay. 
+human	:	I often go to Lola Rosa. It¡¯s a vegetarian restaurant.
+robot	:	Great! Where is it exactly?
+human	:	Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.
+robot	:	Appreciate guy.
+human	:	I like Starbucks. I always take a cup of coffee when I wait bus in the morning.
+robot	:	I like Starbucks too.
+human	:	Yea, it is one of the must served area here
+robot	:	Yeah, I think so.
+human	:	You are welcomed!
+robot	:	#
+human	:	It's fine. I can take bus 51 there. It is fast.
+robot	:	Good to hear that.
+human	:	Cya!
+robot	:	#
+human	:	Hi, there
+robot	:	#
+human	:	Hi, Victor! Nice to meet you!
+robot	:	Have you learned about the welcome party from Joseph?
+human	:	Yeah, thanks for inviting!
+robot	:	My pleasure! It's always to know some new friends as a visiting student.
+human	:	Yeah, for sure, what is it?
+robot	:	I just arrived here a week ago. 
+human	:	Yeah, of course. What do you want to know?
+robot	:	#
+human	:	Well, I often go to Provigo. It is one of the largest supermarkets here.
+robot	:	Okay, thank you.
+human	:	Actually, it is a franchise store, so you can just pick the one near you.
+robot	:	Okay. 
+human	:	Yeah, there is one called Lola Rosa. It is on Parc Avenue.
+robot	:	Awesome! 
+human	:	Of course. It is 4581 Av du Parc, Montreal, QC H2V 4E4.
+robot	:	Okay, that's fine.
+human	:	I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.
+robot	:	Okay, thank you.
+human	:	You are welcomed!
+robot	:	#
+human	:	Thanks. I can take bus there, it is fast.
+robot	:	Good to hear that.
+human	:	No prob. Thank you.
+robot	:	My pleasure.
+human	:	Cya!
+robot	:	#
