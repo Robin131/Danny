@@ -1,0 +1,25 @@
+I am sorry to hear that. But I can just take the 51 Bus. It runs well every day.	:	51
+Well, yes. It is called Provigo. It is one of the largest supermarkets near my house. I will go there to find that cola.	:	Provigo
+I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.	:	Starbucks
+Well, I often go to Provigo. It is one of the largest supermarkets here.	:	Provigo
+Actually, it is a franchise store, so you can just pick the one near you.	:	franchise
+I often go to Lola Rosa with my friends. It is near my home. The food there is the best.	:	Lola Rosa
+Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.	:	4581 Av du Parc, Montreal, QC H2V 4E4
+I am not sure. I seldom go to the theater to watch movies. Maybe you should ask Joseph, he is the expert at movies.	:	none
+It is fine for me, I can just take bus 51 there.	:	51
+Well, I often go to Provigo. It is one of the largest supermarkets here.	:	Provigo
+Actually, it is a franchise store, so you can just pick the one near you.	:	franchise
+Yes, mostly we go to Lola Rosa. It is on Parc Avenue.	:	Lola Rosa Parc Avenue
+Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.	:	4581 Av du Parc, Montreal, QC H2V 4E4
+I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.	:	Starbucks
+Provigo, it's the nearest and cheapest one, It is one of the largest supermarkets here.	:	Provigo
+You don't need the address, it is a franchise store, available everywhere.	:	franchise
+I often go to Lola Rosa. It’s a vegetarian restaurant.	:	Lola Rosa
+Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.	:	4581 Av du Parc, Montreal, QC H2V 4E4
+I like Starbucks. I always take a cup of coffee when I wait bus in the morning.	:	Starbucks
+It's fine. I can take bus 51 there. It is fast.	:	51
+Well, I often go to Provigo. It is one of the largest supermarkets here.	:	Provigo
+Actually, it is a franchise store, so you can just pick the one near you.	:	franchise
+Yeah, there is one called Lola Rosa. It is on Parc Avenue.	:	Lola Rosa Parc Avenue
+I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.	:	Starbucks
+Thanks. I can take bus there, it is fast.	:	none

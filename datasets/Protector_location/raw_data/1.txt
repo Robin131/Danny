@@ -16,7 +16,7 @@ human	:	Cya!
 robot	:	#
 human	:	Hello!
 robot	:	I am a friend of your roommate Joseph. My name is Victor.
-human	:	Yeah, he has told me about that, that¡¯s great. I would like to come.
+human	:	Yeah, he has told me about that, that's great. I would like to come.
 robot	:	That¡¯s great. I bet you will have a nice Friday this week.
 human	:	Yes, I have lived here for 23 years. What¡¯s your problem?
 robot	:	I just arrived here a week ago. 
