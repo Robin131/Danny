@@ -1,4 +1,4 @@
-I am sorry to hear that. But I can just take the 51 Bus. It runs well every day.	:	51
+﻿I am sorry to hear that. But I can just take the 51 Bus. It runs well every day.	:	51
 Well, yes. It is called Provigo. It is one of the largest supermarkets near my house. I will go there to find that cola.	:	Provigo
 I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.	:	Starbucks
 Well, I often go to Provigo. It is one of the largest supermarkets here.	:	Provigo
@@ -23,3 +23,5 @@ Actually, it is a franchise store, so you can just pick the one near you.	:	fran
 Yeah, there is one called Lola Rosa. It is on Parc Avenue.	:	Lola Rosa Parc Avenue
 I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.	:	Starbucks
 Thanks. I can take bus there, it is fast.	:	none
+Year, sure. It's at 1067 Avenue Laurier O, Outremont, QC H2V 2L2.	:	1067 Avenue Laurier O, Outremont, QC H2V 2L2
+Yes, I foten go to the one on du Parc Avenue. It is called RBC.	:	RBC, du Parc Avenue

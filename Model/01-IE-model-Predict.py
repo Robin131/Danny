@@ -1,5 +1,5 @@
 # preprocessed data
-from datasets.IE import data
+from datasets.Protector_location_IE import data
 from datasets import data_utils
 from Model import seq2seq_wrapper
 
@@ -7,7 +7,7 @@ import importlib
 importlib.reload(data)
 
 # load data from pickle and npy files
-metadata, idx_q, idx_a = data.load_data(PATH='../datasets/Protector_personal_IE/')
+metadata, idx_q, idx_a = data.load_data(PATH='../datasets/Protector_location_IE/')
 (trainX, trainY), (testX, testY), (validX, validY) = data_utils.split_dataset(idx_q, idx_a)
 
 
@@ -23,7 +23,7 @@ model = seq2seq_wrapper.Seq2Seq(xseq_len=xseq_len,
                                yseq_len=yseq_len,
                                xvocab_size=xvocab_size,
                                yvocab_size=yvocab_size,
-                               ckpt_path='../ckpt/PI_IE/',
+                               ckpt_path='../ckpt/Protector_location_IE/',
                                loss_path='',
                                metadata=metadata,
                                emb_dim=emb_dim,

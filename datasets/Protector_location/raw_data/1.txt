@@ -43,7 +43,7 @@ robot	:	#
 human	:	Hi, Victor! How are you?
 robot	:	I am fine. Thank you! 
 human	:	Yes, thanks for inviting!
-robot	:	My pleasure! It¡¯s always to know some new friends as a visiting student.
+robot	:	My pleasure! It'ss always to know some new friends as a visiting student.
 human	:	Yes, of course, How can I help you?
 robot	:	I just arrived here a week ago. 
 human	:	Yeah, of course. What do you want to know?
@@ -122,3 +122,9 @@ human	:	No prob. Thank you.
 robot	:	My pleasure.
 human	:	Cya!
 robot	:	#
+human	:	Oh,  there is one pharmacy near UdeM. I sometimes go there.
+robot	:	#
+human	:	Year, sure. It's at 1067 Avenue Laurier O, Outremont, QC H2V 2L2.
+robot	:	OK, thank you!
+human	:	Yes, I foten go to the one on du Parc Avenue. It is called RBC.
+robot	:	Alright, I will have a look there.
