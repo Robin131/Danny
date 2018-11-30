@@ -17,8 +17,8 @@ robot	:	#
 human	:	Hello!
 robot	:	I am a friend of your roommate Joseph. My name is Victor.
 human	:	Yeah, he has told me about that, that's great. I would like to come.
-robot	:	That¡¯s great. I bet you will have a nice Friday this week.
-human	:	Yes, I have lived here for 23 years. What¡¯s your problem?
+robot	:	Thatï¿½ï¿½s great. I bet you will have a nice Friday this week.
+human	:	Yes, I have lived here for 23 years. Whatï¿½ï¿½s your problem?
 robot	:	I just arrived here a week ago. 
 human	:	Yeah, of course. What do you want to know?
 robot	:	#
@@ -43,7 +43,7 @@ robot	:	#
 human	:	Hi, Victor! How are you?
 robot	:	I am fine. Thank you! 
 human	:	Yes, thanks for inviting!
-robot	:	My pleasure! It'ss always to know some new friends as a visiting student.
+robot	:	My pleasure! It's always good to know some new friends as a visiting student.
 human	:	Yes, of course, How can I help you?
 robot	:	I just arrived here a week ago. 
 human	:	Yeah, of course. What do you want to know?
@@ -55,7 +55,7 @@ robot	:	Okay. Gotcha.
 human	:	Yes, mostly we go to Lola Rosa. It is on Parc Avenue.
 robot	:	#
 human	:	Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.
-robot	:	Okay, that¡¯s fine.
+robot	:	Okay, thatï¿½ï¿½s fine.
 human	:	I am not sure. I always take a cup of coffee from Starbucks when I wait bus in the morning.
 robot	:	Okay, thank you.
 human	:	You are welcomed! Nice to meet you too
@@ -71,7 +71,7 @@ robot	:	#
 human	:	Hi, Victor! Nice to meet you!
 robot	:	Mice to meet you, too.
 human	:	Yeah, thanks for inviting!
-robot	:	My pleasure! It's always to know some new friends as a visiting student.
+robot	:	My pleasure! It's always good to know some new friends as a visiting student.
 human	:	Sure, why not if I can?
 robot	:	I just arrived here a week ago. 
 human	:	Yeah, of course. What do you want to know?
@@ -80,7 +80,7 @@ human	:	Provigo, it's the nearest and cheapest one, It is one of the largest sup
 robot	:	#
 human	:	You don't need the address, it is a franchise store, available everywhere.
 robot	:	Okay. 
-human	:	I often go to Lola Rosa. It¡¯s a vegetarian restaurant.
+human	:	I often go to Lola Rosa. Itï¿½ï¿½s a vegetarian restaurant.
 robot	:	Great! Where is it exactly?
 human	:	Of course. It is at 4581 Av du Parc, Montreal, QC H2V 4E4.
 robot	:	Appreciate guy.
@@ -99,7 +99,7 @@ robot	:	#
 human	:	Hi, Victor! Nice to meet you!
 robot	:	Have you learned about the welcome party from Joseph?
 human	:	Yeah, thanks for inviting!
-robot	:	My pleasure! It's always to know some new friends as a visiting student.
+robot	:	My pleasure! It's always good to know some new friends as a visiting student.
 human	:	Yeah, for sure, what is it?
 robot	:	I just arrived here a week ago. 
 human	:	Yeah, of course. What do you want to know?
@@ -122,9 +122,9 @@ human	:	No prob. Thank you.
 robot	:	My pleasure.
 human	:	Cya!
 robot	:	#
-human	:	Oh,  there is one pharmacy near UdeM. I sometimes go there.
+human	:	Oh, there is one pharmacy near UdeM. I sometimes go there.
 robot	:	#
 human	:	Year, sure. It's at 1067 Avenue Laurier O, Outremont, QC H2V 2L2.
 robot	:	OK, thank you!
-human	:	Yes, I foten go to the one on du Parc Avenue. It is called RBC.
+human	:	Yes, I often go to the one on du Parc Avenue. It is called RBC.
 robot	:	Alright, I will have a look there.
